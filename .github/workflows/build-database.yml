@@ -3,6 +3,7 @@ name: Build database
 on:
   schedule:
     - cron: "27 9 * * *" # daily, off the hour to avoid GitHub's cron rush
+  workflow_dispatch:
 
 permissions:
   contents: write
