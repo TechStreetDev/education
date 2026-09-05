@@ -1,0 +1,43 @@
+{
+  "name": "education-email",
+  "version": "1.0.0",
+  "description": "Check whether an email belongs to an educational institution, using a daily-updated compilation of JetBrains/swot's academic domain list",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechStreetDev/education.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "education",
+    "academic",
+    "student",
+    "domain",
+    "swot",
+    "validation"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "build:db": "tsx src/build-database.ts data/database.json data/database.meta.json",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test src/*.test.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

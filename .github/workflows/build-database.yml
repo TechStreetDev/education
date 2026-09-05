@@ -1,0 +1,38 @@
+name: Build database
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # daily, off the hour to avoid GitHub's cron rush
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build database
+        run: npm run build:db
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/database.json data/database.meta.json data/LICENCE.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update database ($(date -u +%Y-%m-%d))"
+            git push
+          fi
