@@ -27,21 +27,21 @@ jobs:
           fi
 
       - name: Setup Node
-        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check.outputs.changed == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
       - name: Install dependencies
-        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check.outputs.changed == 'true'
         run: npm ci
 
       - name: Build database
-        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check.outputs.changed == 'true'
         run: npm run build:db
 
       - name: Commit if changed
-        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.check.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
