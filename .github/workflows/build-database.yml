@@ -1,9 +1,9 @@
 name: Build database
 
 on:
-  schedule:
-    - cron: "27 9 * * *" # daily, off the hour to avoid GitHub's cron rush
   workflow_dispatch:
+  schedule:
+    - cron: "56 * * * *" # hourly, off the hour to avoid GitHub's cron rush
 
 permissions:
   contents: write
@@ -15,18 +15,35 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Check for swot updates
+        id: check
+        run: |
+          latest=$(git ls-remote https://github.com/JetBrains/swot.git HEAD | cut -f1)
+          built=$(jq -r '.source.commit' data/database.meta.json)
+          echo "latest=$latest"
+          echo "built=$built"
+          if [ "$latest" = "$built" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Setup Node
+        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
       - name: Install dependencies
+        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: npm ci
 
       - name: Build database
+        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: npm run build:db
 
       - name: Commit if changed
+        if: steps.check.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -34,6 +51,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update database ($(date -u +%Y-%m-%d))"
+            git commit -m "chore: update database ($(date -u +'%Y-%m-%d %H:%M') UTC)"
             git push
           fi
