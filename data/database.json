@@ -10991,7 +10991,7 @@
   },
   {
     "domain": "bkhaspel.de",
-    "org": "Berufskolleg Am Haspel",
+    "org": "Berufskolleg am Haspel",
     "country": "DE"
   },
   {
@@ -13938,6 +13938,11 @@
     "domain": "cambournevc.org",
     "org": "Cambourne Village College, UK",
     "country": null
+  },
+  {
+    "domain": "cambria.ac.uk",
+    "org": "Coleg Cambria",
+    "country": "GB"
   },
   {
     "domain": "cambriancollege.ca",
@@ -44018,6 +44023,11 @@
     "domain": "hia.no",
     "org": "Agder University College",
     "country": "NO"
+  },
+  {
+    "domain": "hiac.edu.eg",
+    "org": "Higher Institute for Agricultural Cooperation",
+    "country": "EG"
   },
   {
     "domain": "hials.no",
@@ -88868,6 +88878,11 @@
     "domain": "rsm.nl",
     "org": "Rotterdam School of Management, Erasmus University Rotterdam",
     "country": "NL"
+  },
+  {
+    "domain": "rsmt.ac.in",
+    "org": "Rajarshi School of Management and Technology, Varanasi",
+    "country": "IN"
   },
   {
     "domain": "rsmu.ru",
