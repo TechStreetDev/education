@@ -5845,6 +5845,11 @@
     "country": "MY"
   },
   {
+    "domain": "apu.edu.vn",
+    "org": "APU AMERICAN INTERNATIONAL SCHOOL",
+    "country": "VN"
+  },
+  {
     "domain": "apus.edu",
     "org": "American Military University",
     "country": null
@@ -116558,6 +116563,11 @@
     "domain": "ulm.edu",
     "org": "University of Louisiana at Monroe",
     "country": null
+  },
+  {
+    "domain": "ulo.pt",
+    "org": "University of Leiria and Oeste",
+    "country": "PT"
   },
   {
     "domain": "ulp.edu.ar",
