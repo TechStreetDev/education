@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/database.json data/database.meta.json data/LICENCE.md
+          git add data/database.json data/database.meta.json data/LICENCE
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

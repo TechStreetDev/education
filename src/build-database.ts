@@ -154,7 +154,7 @@ function main() {
 	try {
 		sha = cloneSwot(repoDir);
 		records = build(path.join(repoDir, "lib", "domains"));
-		copyThirdPartyLicence(repoDir, path.join(path.dirname(outPath), "LICENCE.md"));
+		copyThirdPartyLicence(repoDir, path.join(path.dirname(outPath), "LICENCE"));
 	} finally {
 		rmSync(tmp, {recursive: true, force: true});
 	}
