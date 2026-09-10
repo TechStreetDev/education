@@ -53071,7 +53071,7 @@
   },
   {
     "domain": "isepat.edu.sn",
-    "org": "ISEP-AT (Institut Supérieur d'Enseignement Professionnel Amadou Trawaré de Diamniadio)",
+    "org": "ISEPAT",
     "country": "SN"
   },
   {
@@ -90553,6 +90553,11 @@
     "domain": "santhigiricollege.com",
     "org": "SANTHIGIRI COLLEGE, THODUPUZHA",
     "country": null
+  },
+  {
+    "domain": "santiagocft.cl",
+    "org": "Cft Estatal Region Metropolitana",
+    "country": "CL"
   },
   {
     "domain": "santiskurs.ch",
