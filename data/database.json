@@ -49250,6 +49250,11 @@
     "country": "DE"
   },
   {
+    "domain": "igs-emmelshausen.de",
+    "org": "Integrierte Gesamtschule Emmelshausen",
+    "country": "DE"
+  },
+  {
     "domain": "igs-goettingen.de",
     "org": "Georg-Christoph-Lichtenberg-Gesamtschule Göttingen-Geismar",
     "country": "DE"
@@ -89418,6 +89423,11 @@
     "domain": "s-anahuac.edu.mx",
     "org": "Colegios Salesianos de Guadalajara",
     "country": "MX"
+  },
+  {
+    "domain": "s-e-a.dk",
+    "org": "Syddansk Erhvervsakademi (SEA)",
+    "country": "DK"
   },
   {
     "domain": "s-fx.fr",
