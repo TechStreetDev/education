@@ -18100,6 +18100,11 @@
     "country": "PL"
   },
   {
+    "domain": "ckziuwadowice.pl",
+    "org": "Centrum Kształcenia Zawodowego i Ustawicznego nr 2 w Wadowicach",
+    "country": "PL"
+  },
+  {
     "domain": "ckztarnow.pl",
     "org": "Centrum Kształcenia Zawodowego,Tarnów",
     "country": "PL"
@@ -65373,6 +65378,11 @@
     "domain": "live.intercollege.ac.cy",
     "org": "Intercollege",
     "country": "CY"
+  },
+  {
+    "domain": "live.longwood.edu",
+    "org": "Longwood University",
+    "country": null
   },
   {
     "domain": "live.maryville.edu",
