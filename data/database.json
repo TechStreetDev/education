@@ -25465,6 +25465,11 @@
     "country": "IN"
   },
   {
+    "domain": "dsce.ac.in",
+    "org": "Dhanalakshmi Srinivasan College of Engineering, Coimbatore",
+    "country": "IN"
+  },
+  {
     "domain": "dsce.edu.in",
     "org": "Dayananda Sagar College of Engineering",
     "country": "IN"
@@ -78953,6 +78958,11 @@
     "domain": "nu.edu.kz",
     "org": "Назарбаев Университеті",
     "country": "KZ"
+  },
+  {
+    "domain": "nu.edu.ly",
+    "org": "Nalut University",
+    "country": "LY"
   },
   {
     "domain": "nu.edu.om",
