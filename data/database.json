@@ -24720,6 +24720,11 @@
     "country": "PH"
   },
   {
+    "domain": "dmscollege.ac.in",
+    "org": "Dnyanprassarak Mandal's College & Research Centre",
+    "country": "IN"
+  },
+  {
     "domain": "dmu.ac.kr",
     "org": "dongyang university",
     "country": "KR"
@@ -74115,6 +74120,11 @@
     "country": "MY"
   },
   {
+    "domain": "must.edu.pk",
+    "org": "Mirpur University of Science and Technology",
+    "country": "PK"
+  },
+  {
     "domain": "mustangs.deltacollege.edu",
     "org": "San Joaquin Delta College",
     "country": null
@@ -94383,6 +94393,11 @@
     "domain": "sidcot.org.uk",
     "org": "Sidcot School",
     "country": "GB"
+  },
+  {
+    "domain": "siddharthamahila.ac.in",
+    "org": "Sri Durga Malleswara Siddhartha Mahila Kalasala",
+    "country": "IN"
   },
   {
     "domain": "sidem.edu.pe",
