@@ -24710,6 +24710,11 @@
     "country": null
   },
   {
+    "domain": "dmice.ac.in",
+    "org": "DMI College of Engineering",
+    "country": "IN"
+  },
+  {
     "domain": "dmjx.dk",
     "org": "Danish School of Media and Journalism",
     "country": "DK"
@@ -74943,6 +74948,11 @@
     "domain": "myopenpolytechnic.ac.nz",
     "org": "Open Polytechnic of New Zealand",
     "country": "NZ"
+  },
+  {
+    "domain": "mypgi.edu.pk",
+    "org": "Pakistan Global Institute",
+    "country": "PK"
   },
   {
     "domain": "mypisd.net",
