@@ -102340,6 +102340,11 @@
     "country": null
   },
   {
+    "domain": "student.gunadarma.ac.id",
+    "org": "Universitas Gunadarma",
+    "country": "ID"
+  },
+  {
     "domain": "student.gutech.edu.om",
     "org": "German University of Technology in Oman (GUtech)",
     "country": "OM"
@@ -129428,6 +129433,11 @@
     "domain": "vjti.ac.in",
     "org": "Veermata Jijabai Technological Institute, Mumbai",
     "country": "IN"
+  },
+  {
+    "domain": "vju.ac.vn",
+    "org": "Trường Đại học Việt Nhật",
+    "country": "VN"
   },
   {
     "domain": "vke-edu.ru",
