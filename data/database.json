@@ -5840,11 +5840,6 @@
     "country": null
   },
   {
-    "domain": "apu.edu.my",
-    "org": "Asia Pacific University of Technology & Innovation (APU)",
-    "country": "MY"
-  },
-  {
     "domain": "apu.edu.vn",
     "org": "APU AMERICAN INTERNATIONAL SCHOOL",
     "country": "VN"
@@ -71788,6 +71783,11 @@
     "domain": "mlgcl.edu.ph",
     "org": "MLG College of Learning, Inc",
     "country": "PH"
+  },
+  {
+    "domain": "mlmc.vic.edu.au",
+    "org": "Mount Lilydale Mercy College",
+    "country": "AU"
   },
   {
     "domain": "mln.du.ac.in",
