@@ -110675,6 +110675,11 @@
     "country": null
   },
   {
+    "domain": "tsc.edu",
+    "org": "Texas Southmost College",
+    "country": null
+  },
+  {
     "domain": "tscacademy.org.uk",
     "org": "The Samworth Church Academy",
     "country": "GB"
@@ -119887,6 +119892,11 @@
   {
     "domain": "unifatecpr.com.br",
     "org": "UNIFATECPR Centro Universitário",
+    "country": "BR"
+  },
+  {
+    "domain": "unifatra.edu.br",
+    "org": "Centro Universitário UNIFATRA",
     "country": "BR"
   },
   {
