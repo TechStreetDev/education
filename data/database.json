@@ -29655,11 +29655,6 @@
     "country": null
   },
   {
-    "domain": "emelwerda.nl",
-    "org": "Emelwerda",
-    "country": "NL"
-  },
-  {
     "domain": "emeraldheights.edu.in",
     "org": "Emerald Heights",
     "country": "IN"
@@ -31638,11 +31633,6 @@
     "domain": "espci.fr",
     "org": "Ecole Supérieure de Physique et de Chimie Industrielles",
     "country": "FR"
-  },
-  {
-    "domain": "espe.edu.ec",
-    "org": "Escuela Politécnica del Ejercito",
-    "country": "EC"
   },
   {
     "domain": "espic.com",
@@ -36720,11 +36710,6 @@
     "country": "NG"
   },
   {
-    "domain": "fue.edu.eg",
-    "org": "Future University in Egypt",
-    "country": "EG"
-  },
-  {
     "domain": "fugusau.edu.ng",
     "org": "Federal University Gusau",
     "country": "NG"
@@ -37432,11 +37417,6 @@
   {
     "domain": "galgotiasuniversity.ac.in",
     "org": "Galgotias University, Gautam Buddha Nagar, Greater Noida",
-    "country": "IN"
-  },
-  {
-    "domain": "galgotiasuniversity.edu.in",
-    "org": "Galgotias University",
     "country": "IN"
   },
   {
@@ -56415,6 +56395,11 @@
     "country": null
   },
   {
+    "domain": "jccmi.edu",
+    "org": "Jackson College",
+    "country": null
+  },
+  {
     "domain": "jce.ac.il",
     "org": "Azrieli College of Engineering Jerusalem",
     "country": "IL"
@@ -71595,11 +71580,6 @@
     "country": "SE"
   },
   {
-    "domain": "miutt.edu.mx",
-    "org": "Universidad Tecnologica de Tijuana",
-    "country": "MX"
-  },
-  {
     "domain": "miva.edu.ng",
     "org": "Miva Open University",
     "country": "NG"
@@ -73010,11 +72990,6 @@
     "country": "TW"
   },
   {
-    "domain": "msa.edu.eg",
-    "org": "October University for Sciences & Arts (MSA University)",
-    "country": "EG"
-  },
-  {
     "domain": "msa.eun.eg",
     "org": "Modern Sciences &amp; Arts University",
     "country": "EG"
@@ -73473,11 +73448,6 @@
     "domain": "mta.ac.il",
     "org": "The Academic College of Tel Aviv-Yaffo",
     "country": "IL"
-  },
-  {
-    "domain": "mta.ca",
-    "org": "Mount Allison University",
-    "country": "CA"
   },
   {
     "domain": "mta.qld.edu.au",
@@ -79313,11 +79283,6 @@
     "domain": "nutc.edu.tw",
     "org": "國立臺中科技大學",
     "country": "TW"
-  },
-  {
-    "domain": "nute.edu.vn",
-    "org": "Trường đại học sư phạm kỹ thuật Nam Định",
-    "country": "VN"
   },
   {
     "domain": "nutech.edu.pk",
@@ -101080,11 +101045,6 @@
     "country": "KR"
   },
   {
-    "domain": "stud.bbbaden.ch",
-    "org": "Berufsfachschule BBB",
-    "country": "CH"
-  },
-  {
     "domain": "stud.bfstg.ch",
     "org": "Bildungszentrum für Technik, Frauenfeld",
     "country": "CH"
@@ -101903,11 +101863,6 @@
     "domain": "student.cibap.nl",
     "org": "Cibap Vakschool voor Verbeelding",
     "country": "NL"
-  },
-  {
-    "domain": "student.cinec.edu",
-    "org": "Colombo International Nautical and Engineering College",
-    "country": null
   },
   {
     "domain": "student.cis.edu.hk",
@@ -103030,11 +102985,6 @@
     "country": null
   },
   {
-    "domain": "student.phoenixunion.org",
-    "org": "Phoenix Union High School District",
-    "country": null
-  },
-  {
     "domain": "student.phsc.edu",
     "org": "Pasco-Hernando State College",
     "country": null
@@ -103638,11 +103588,6 @@
     "domain": "student.udm.ac.mu",
     "org": "University of Mascareignes",
     "country": "MU"
-  },
-  {
-    "domain": "student.uet.edu.pk",
-    "org": "University of Engineering and Technology Lahore, Pakistan",
-    "country": "PK"
   },
   {
     "domain": "student.uinsby.ac.id",
@@ -106568,11 +106513,6 @@
     "domain": "swpu.edu.cn",
     "org": "Southwest Petroleum University",
     "country": "CN"
-  },
-  {
-    "domain": "swry.ac.th",
-    "org": "Srinagarindra The Princess Mother School, Rayong",
-    "country": "TH"
   },
   {
     "domain": "swsc.vic.edu.au",
@@ -111245,11 +111185,6 @@
     "country": "FI"
   },
   {
-    "domain": "tuks.co.za",
-    "org": "University of Pretoria",
-    "country": "ZA"
-  },
-  {
     "domain": "tul.cz",
     "org": "Technical University of Liberec",
     "country": "CZ"
@@ -112178,11 +112113,6 @@
     "domain": "uagrm.edu.bo",
     "org": "Universidad Autónoma Gabriel René Moreno",
     "country": "BO"
-  },
-  {
-    "domain": "uagro.mx",
-    "org": "Universidad Autónoma de Guerrero",
-    "country": "MX"
   },
   {
     "domain": "uah.edu",
@@ -117840,11 +117770,6 @@
     "country": null
   },
   {
-    "domain": "unadmexico.mx",
-    "org": "Universidad Abierta y a Distancia de México",
-    "country": "MX"
-  },
-  {
     "domain": "unadp.ac.pa",
     "org": "Universidad Abierta y a Distancia de Panama",
     "country": "PA"
@@ -119895,11 +119820,6 @@
     "country": "BR"
   },
   {
-    "domain": "unifatecpr.com.br",
-    "org": "UNIFATECPR Centro Universitário",
-    "country": "BR"
-  },
-  {
     "domain": "unifatra.edu.br",
     "org": "Centro Universitário UNIFATRA",
     "country": "BR"
@@ -121373,11 +121293,6 @@
     "domain": "unisociesc.com.br",
     "org": "Unisociesc",
     "country": "BR"
-  },
-  {
-    "domain": "unison.mx",
-    "org": "Universidad de Sonora",
-    "country": "MX"
   },
   {
     "domain": "unisri.ac.id",
@@ -122920,11 +122835,6 @@
     "country": "ID"
   },
   {
-    "domain": "unjbg.edu.pe",
-    "org": "Universidad Nacional Jorge Basadre Grohmann",
-    "country": "PE"
-  },
-  {
     "domain": "unju.edu.ar",
     "org": "Universidad Nacional de Jujuy",
     "country": "AR"
@@ -123772,11 +123682,6 @@
   {
     "domain": "uoalfarahidi.edu.iq",
     "org": "جامعة الفراهيدي",
-    "country": "IQ"
-  },
-  {
-    "domain": "uoanbar.edu.iq",
-    "org": "University of Anbar",
     "country": "IQ"
   },
   {
@@ -129270,11 +129175,6 @@
     "country": null
   },
   {
-    "domain": "vit.edu.in",
-    "org": "Vidyalankar Institute Of Technology,Mumbai",
-    "country": "IN"
-  },
-  {
     "domain": "vitaetpax.be",
     "org": "Vita et Pax-college",
     "country": "BE"
@@ -133873,11 +133773,6 @@
     "domain": "ysumail.am",
     "org": "Yerevan State University",
     "country": "AM"
-  },
-  {
-    "domain": "ytc.ac.th",
-    "org": "yala technical college",
-    "country": "TH"
   },
   {
     "domain": "ytebacninh.edu.vn",
