@@ -50910,6 +50910,11 @@
     "country": "MY"
   },
   {
+    "domain": "imut.edu.cn",
+    "org": "内蒙古工业大学",
+    "country": "CN"
+  },
+  {
     "domain": "in.cscm-lx.pt",
     "org": "Colégio Sagrado do Coração de Maria",
     "country": "PT"
@@ -123993,6 +123998,11 @@
     "domain": "uom.edu.pk",
     "org": "University of Malakand",
     "country": "PK"
+  },
+  {
+    "domain": "uom.edu.sa",
+    "org": "جامعة المستقبل",
+    "country": "SA"
   },
   {
     "domain": "uom.gr",
