@@ -38135,6 +38135,11 @@
     "country": "TR"
   },
   {
+    "domain": "gediminosportogimnazija.lt",
+    "org": "Kauno Gedimino sporto ir sveikatinimo gimnazija",
+    "country": "LT"
+  },
+  {
     "domain": "geestnetz.de",
     "org": "Geestlandschule",
     "country": "DE"
@@ -56613,6 +56618,11 @@
     "domain": "jefftwp.org",
     "org": "Jefferson Township Public Schools",
     "country": null
+  },
+  {
+    "domain": "jei.se",
+    "org": "John Ericsson Institutet",
+    "country": "SE"
   },
   {
     "domain": "jenaplangymnasium.org",
