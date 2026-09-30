@@ -87070,6 +87070,11 @@
     "country": null
   },
   {
+    "domain": "ravenshawuniversity.ac.in",
+    "org": "Ravenshaw University",
+    "country": "IN"
+  },
+  {
     "domain": "rawlinsacademy.org.uk",
     "org": "Rawlins Academy",
     "country": "GB"
@@ -114493,6 +114498,11 @@
     "domain": "udu.edu.ua",
     "org": "Український державний університет імені Михайла Драгоманова",
     "country": "UA"
+  },
+  {
+    "domain": "udusok.edu.ng",
+    "org": "Usmanu Danfodiyo University Sokoto",
+    "country": "NG"
   },
   {
     "domain": "udv.edu.mx",
