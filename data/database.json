@@ -700,6 +700,11 @@
     "country": null
   },
   {
+    "domain": "aaup.edu",
+    "org": "Arab American University - Palestine",
+    "country": null
+  },
+  {
     "domain": "aaup.edu.ps",
     "org": "Arab American University",
     "country": "PS"
@@ -1063,6 +1068,11 @@
     "domain": "ac.cd",
     "org": "Université de Lubumbashi",
     "country": "CD"
+  },
+  {
+    "domain": "ac.eap.gr",
+    "org": "Hellenic Open University",
+    "country": "GR"
   },
   {
     "domain": "ac.gg",
