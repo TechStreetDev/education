@@ -26785,6 +26785,11 @@
     "country": "IN"
   },
   {
+    "domain": "eced.svnit.ac.in",
+    "org": "Sardar Vallabhbhai National Institute of Technology, Surat",
+    "country": "IN"
+  },
+  {
     "domain": "ecfs.org",
     "org": "Ethical Culture Fieldston School",
     "country": null
@@ -38127,6 +38132,11 @@
   {
     "domain": "gecmodasa.ac.in",
     "org": "Government Engineering College, Modasa",
+    "country": "IN"
+  },
+  {
+    "domain": "gecpatan.ac.in",
+    "org": "Government Engineering College Patan",
     "country": "IN"
   },
   {
@@ -69378,6 +69388,11 @@
     "domain": "mci4me.at",
     "org": "Management Center Innsbruck",
     "country": "AT"
+  },
+  {
+    "domain": "mciu.edu.ng",
+    "org": "Michael and Cecilia Ibru University",
+    "country": "NG"
   },
   {
     "domain": "mck-ktits.ru",
@@ -132333,6 +132348,11 @@
     "domain": "wsb.wroclaw.pl",
     "org": "WSB University in Wroclaw",
     "country": "PL"
+  },
+  {
+    "domain": "wsc.ac.uk",
+    "org": "West Suffolk College",
+    "country": "GB"
   },
   {
     "domain": "wsc.edu",
