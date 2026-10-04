@@ -19905,6 +19905,11 @@
     "country": null
   },
   {
+    "domain": "competences-developpement.fr",
+    "org": "Réseau Compétences & Développement",
+    "country": "FR"
+  },
+  {
     "domain": "compscicenter.ru",
     "org": "Computer Science Center",
     "country": "RU"
@@ -42516,7 +42521,7 @@
   },
   {
     "domain": "harran.edu.tr",
-    "org": "Harran University",
+    "org": "Harran Üniversitesi",
     "country": "TR"
   },
   {
