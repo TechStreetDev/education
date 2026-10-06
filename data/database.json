@@ -25310,6 +25310,11 @@
     "country": "DK"
   },
   {
+    "domain": "dpu.edu.in",
+    "org": "Dr. D. Y. Patil Vidyapeeth, Pimpri, Pune",
+    "country": "IN"
+  },
+  {
     "domain": "dpu.edu.krd",
     "org": "Duhok Polytechnic University",
     "country": null
@@ -122698,6 +122703,11 @@
     "domain": "universitetiaab.com",
     "org": "Kolegji AAB",
     "country": null
+  },
+  {
+    "domain": "universitetipolis.edu.al",
+    "org": "Universiteti POLIS",
+    "country": "AL"
   },
   {
     "domain": "university-365.com",
