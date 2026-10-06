@@ -20950,6 +20950,11 @@
     "country": null
   },
   {
+    "domain": "cs.uchicago.edu",
+    "org": "University of Chicago",
+    "country": null
+  },
+  {
     "domain": "cs.up.edu.br",
     "org": "Universidade Positivo",
     "country": "BR"
@@ -31668,6 +31673,11 @@
     "domain": "espci.fr",
     "org": "Ecole Supérieure de Physique et de Chimie Industrielles",
     "country": "FR"
+  },
+  {
+    "domain": "espe.edu.ec",
+    "org": "Universidad de las Fuerzas Armadas ESPE",
+    "country": "EC"
   },
   {
     "domain": "espic.com",
@@ -80323,6 +80333,11 @@
     "domain": "ohva.org",
     "org": "Ohio Virtual Academy",
     "country": null
+  },
+  {
+    "domain": "oi.edu.eg",
+    "org": "Obour High Institute for Management & Informatics",
+    "country": "EG"
   },
   {
     "domain": "oiate.ru",
