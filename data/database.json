@@ -2100,11 +2100,6 @@
     "country": "BR"
   },
   {
-    "domain": "aepombal.edu.pt",
-    "org": "Agrupamento de Escolas de Pombal",
-    "country": "PT"
-  },
-  {
     "domain": "aeprosa.pt",
     "org": "Agrupamento de Escolas Pinheiro e Rosa",
     "country": "PT"
@@ -18985,11 +18980,6 @@
     "country": "CU"
   },
   {
-    "domain": "co.sa.edu.au",
-    "org": "Central Ocean University",
-    "country": "AU"
-  },
-  {
     "domain": "coa.edu",
     "org": "College of the Atlantic",
     "country": null
@@ -22920,11 +22910,6 @@
     "country": "DE"
   },
   {
-    "domain": "das.edu.pk",
-    "org": "Dar-e-Arqam Schools Pakistan",
-    "country": "PK"
-  },
-  {
     "domain": "dasc.edu.mx",
     "org": "DASC Instituto Tecnológico Universitario",
     "country": "MX"
@@ -25650,11 +25635,6 @@
     "country": "HU"
   },
   {
-    "domain": "dtc.ac.th",
-    "org": "วิทยาลัยดุสิตธานี",
-    "country": "TH"
-  },
-  {
     "domain": "dtcc.edu",
     "org": "Delaware Technical Community College",
     "country": null
@@ -26143,11 +26123,6 @@
     "domain": "dypatil.edu",
     "org": "DY Patil University",
     "country": null
-  },
-  {
-    "domain": "dypatiluniversitypune.edu.in",
-    "org": "Dy patil school of engineering and technology",
-    "country": "IN"
   },
   {
     "domain": "dypgroup.edu.in",
@@ -30510,11 +30485,6 @@
     "country": "DZ"
   },
   {
-    "domain": "enstp.edu.dz",
-    "org": "École Nationale Supérieure des Travaux Publics",
-    "country": "DZ"
-  },
-  {
     "domain": "ensttic.dz",
     "org": "ENSTTIC",
     "country": "DZ"
@@ -30788,11 +30758,6 @@
     "domain": "epst-oran.dz",
     "org": "Ecole Préparatoire en Sciences et Techniques",
     "country": "DZ"
-  },
-  {
-    "domain": "epsu.edu.et",
-    "org": "የኢትዮጵያ ፐብሊክ ሰርቪስ ዩኒቨርሲቲ",
-    "country": "ET"
   },
   {
     "domain": "ept.edu.sn",
@@ -32493,11 +32458,6 @@
     "domain": "etud.iga.ac.ma",
     "org": "L’école supérieure d’Ingénierie et de Management.",
     "country": "MA"
-  },
-  {
-    "domain": "etud.lycee-mermoz.net",
-    "org": "lycee jean mermoz",
-    "country": null
   },
   {
     "domain": "etudiant-enit.utm.tn",
@@ -35430,11 +35390,6 @@
     "country": "DE"
   },
   {
-    "domain": "flacso.edu.ec",
-    "org": "Flacso Ecuador",
-    "country": "EC"
-  },
-  {
     "domain": "flacso.org.ar",
     "org": "FACULTAD LATINOAMERICANA DE CIENCIAS SOCIALES",
     "country": "AR"
@@ -38318,11 +38273,6 @@
     "domain": "genoveva.de",
     "org": "Genoveva gymnasium",
     "country": "DE"
-  },
-  {
-    "domain": "gensan.sti.edu.ph",
-    "org": "STI College - General Santos",
-    "country": "PH"
   },
   {
     "domain": "genth-schule.de",
@@ -43313,11 +43263,6 @@
     "domain": "heh.be",
     "org": "Haute École en Hainaut",
     "country": "BE"
-  },
-  {
-    "domain": "hei.fr",
-    "org": "Ecole des Hautes Etudes Industrielles de Lille",
-    "country": "FR"
   },
   {
     "domain": "hei.school",
@@ -53660,11 +53605,6 @@
     "country": "PT"
   },
   {
-    "domain": "ismailia1.moe.edu.eg",
-    "org": "عباس محمود العقاد الأبتدائية",
-    "country": "EG"
-  },
-  {
     "domain": "ismanila.org",
     "org": "International School Manila",
     "country": null
@@ -58105,11 +58045,6 @@
     "country": "NP"
   },
   {
-    "domain": "kamarajengg.edu.in",
-    "org": "Kamaraj College of Engineering & Technology",
-    "country": "IN"
-  },
-  {
     "domain": "kamchatgtu.ru",
     "org": "Kamchatka State Technical University",
     "country": "RU"
@@ -59155,11 +59090,6 @@
     "country": null
   },
   {
-    "domain": "kent.edu.au",
-    "org": "Kent Institute",
-    "country": "AU"
-  },
-  {
     "domain": "kent.edu.tr",
     "org": "İstanbul Kent Üniversitesi",
     "country": "TR"
@@ -59858,11 +59788,6 @@
     "domain": "kingsengg.edu.in",
     "org": "Kings college of engineering",
     "country": "IN"
-  },
-  {
-    "domain": "kingshigh.school.nz",
-    "org": "Kings High School",
-    "country": "NZ"
   },
   {
     "domain": "kingsinterhigh.co.uk",
@@ -63095,11 +63020,6 @@
     "country": "BR"
   },
   {
-    "domain": "lasalle63.fr",
-    "org": "Lasalle Clermont",
-    "country": "FR"
-  },
-  {
     "domain": "lasalle84.org",
     "org": "La Salle Avignon",
     "country": null
@@ -64070,11 +63990,6 @@
     "country": "DE"
   },
   {
-    "domain": "leomail.etamu.edu",
-    "org": "East Texas A&M University",
-    "country": null
-  },
-  {
     "domain": "leominsterschools.org",
     "org": "Leominster Public Schools",
     "country": null
@@ -64128,11 +64043,6 @@
     "domain": "les-2-rives.fr",
     "org": "Groupe Scolaire Les 2 Rives",
     "country": "FR"
-  },
-  {
-    "domain": "les4temps.ac.ma",
-    "org": "GROUPE SCOLAIRE LES QUATRE TEMPS",
-    "country": "MA"
   },
   {
     "domain": "lesallay.academy",
@@ -65055,11 +64965,6 @@
     "country": null
   },
   {
-    "domain": "lincoln.edu.my",
-    "org": "Lincoln University College",
-    "country": "MY"
-  },
-  {
     "domain": "lincoln.edu.ng",
     "org": "Lincoln University College Nigeria",
     "country": "NG"
@@ -65228,11 +65133,6 @@
     "domain": "lipa.sti.edu.ph",
     "org": "STI College Lipa",
     "country": "PH"
-  },
-  {
-    "domain": "lippe-berufskolleg.org",
-    "org": "Lippe Berufskolleg",
-    "country": null
   },
   {
     "domain": "lipscomb.edu",
@@ -71400,11 +71300,6 @@
     "country": null
   },
   {
-    "domain": "missionreadyhq.com",
-    "org": "Mission Ready HQ",
-    "country": null
-  },
-  {
     "domain": "missouri.edu",
     "org": "University of Missouri - Columbia",
     "country": null
@@ -73845,19 +73740,9 @@
     "country": "CN"
   },
   {
-    "domain": "muc.edu.eg",
-    "org": "May University in Cairo",
-    "country": "EG"
-  },
-  {
     "domain": "muc.edu.iq",
     "org": "Mansour University College",
     "country": "IQ"
-  },
-  {
-    "domain": "muc.edu.lb",
-    "org": "Matn University College",
-    "country": "LB"
   },
   {
     "domain": "muc.edu.ps",
@@ -75485,11 +75370,6 @@
     "country": "UA"
   },
   {
-    "domain": "nasraschool.edu.pk",
-    "org": "Nasra school",
-    "country": "PK"
-  },
-  {
     "domain": "nassau.k12.fl.us",
     "org": "Fernandina Beach Middle School",
     "country": "US"
@@ -75673,11 +75553,6 @@
     "domain": "nbpt.edu.cn",
     "org": "Ningbo Polytechnic",
     "country": "CN"
-  },
-  {
-    "domain": "nbs.edu.in",
-    "org": "Narayana Business School",
-    "country": "IN"
   },
   {
     "domain": "nbsc.edu.ph",
@@ -80060,11 +79935,6 @@
     "country": null
   },
   {
-    "domain": "office.sehan.ac.kr",
-    "org": "세한대학교",
-    "country": "KR"
-  },
-  {
     "domain": "office.skhu.ac.kr",
     "org": "Sungkonghoe University",
     "country": "KR"
@@ -81053,11 +80923,6 @@
     "domain": "ormistonriversacademy.co.uk",
     "org": "Ormiston Rivers Academy",
     "country": "GB"
-  },
-  {
-    "domain": "ormoc.sti.edu.ph",
-    "org": "STI College Ormoc",
-    "country": "PH"
   },
   {
     "domain": "orst.edu",
@@ -82223,11 +82088,6 @@
     "domain": "pasadenaisd.org",
     "org": "Dobie High School",
     "country": null
-  },
-  {
-    "domain": "pasay-edsa.sti.edu.ph",
-    "org": "STI College Edsa Pasay",
-    "country": "PH"
   },
   {
     "domain": "pascack.org",
@@ -85615,11 +85475,6 @@
     "country": "IN"
   },
   {
-    "domain": "pstcc.edu",
-    "org": "Pellissippi State Community College",
-    "country": null
-  },
-  {
     "domain": "pstu.ac.bd",
     "org": "Patuakhali Science and Technology University",
     "country": "BD"
@@ -86483,11 +86338,6 @@
     "domain": "q3academy.org.uk",
     "org": "q3 academy",
     "country": "GB"
-  },
-  {
-    "domain": "qaliobia2.moe.edu.eg",
-    "org": "Egyptian Ministry of Education - El-Manayel Mixed Secondary School",
-    "country": "EG"
   },
   {
     "domain": "qarshidu.uz",
@@ -97225,11 +97075,6 @@
     "country": null
   },
   {
-    "domain": "southsinai1.moe.edu.eg",
-    "org": "الشهيد محمود ناجي الثانوية العسكرية",
-    "country": "EG"
-  },
-  {
     "domain": "southstaffs.ac.uk",
     "org": "South Staffs College- Lichfeild",
     "country": "GB"
@@ -98865,11 +98710,6 @@
     "country": "VN"
   },
   {
-    "domain": "st.umt.edu.vn",
-    "org": "Trường Đại học Quản lý và Công nghệ TP.HCM",
-    "country": "VN"
-  },
-  {
     "domain": "st.usth.edu.vn",
     "org": "University of Science and Technology of Hanoi",
     "country": "VN"
@@ -99080,11 +98920,6 @@
     "country": null
   },
   {
-    "domain": "staszic.pl",
-    "org": "I Liceum Ogólnokształcące Im. Ks. Stanisława Staszica w Hrubieszowie",
-    "country": "PL"
-  },
-  {
     "domain": "staszic.waw.pl",
     "org": "XIV Liceum Ogólnokształcące im. Stanisława Staszica w Warszawie",
     "country": "PL"
@@ -99223,11 +99058,6 @@
     "domain": "stcva.org",
     "org": "St. Christopher's School",
     "country": null
-  },
-  {
-    "domain": "std.alsun.asu.edu.eg",
-    "org": "Ain Shams University",
-    "country": "EG"
   },
   {
     "domain": "std.aum.edu.jo",
@@ -99828,11 +99658,6 @@
     "domain": "stkipydb.ac.id",
     "org": "STKIP YDB Lubuk Alung",
     "country": "ID"
-  },
-  {
-    "domain": "stlawrence.edu.np",
-    "org": "St. Lawrence College",
-    "country": "NP"
   },
   {
     "domain": "stlawu.edu",
@@ -101953,11 +101778,6 @@
     "domain": "student.comunicare.ro",
     "org": "Scoala Nationala de Stiinte Politice",
     "country": "RO"
-  },
-  {
-    "domain": "student.concordia.ab.ca",
-    "org": "Concordia University of Edmonton",
-    "country": "CA"
   },
   {
     "domain": "student.cs.unida.gontor.ac.id",
@@ -105108,11 +104928,6 @@
     "domain": "students.untidar.ac.id",
     "org": "Universitas Tidar",
     "country": "ID"
-  },
-  {
-    "domain": "students.uplifteducation.org",
-    "org": "uplift North Hill Prep",
-    "country": null
   },
   {
     "domain": "students.usd497.org",
@@ -110250,11 +110065,6 @@
     "country": "RO"
   },
   {
-    "domain": "tps.edu.sa",
-    "org": "مدارس التربية الاهلية",
-    "country": "SA"
-  },
-  {
     "domain": "tpt.merciantrust.org.uk",
     "org": "Q3 Academy Tipton",
     "country": "GB"
@@ -110283,11 +110093,6 @@
     "domain": "tqstudent.edu.au",
     "org": "Tafe Queensland",
     "country": "AU"
-  },
-  {
-    "domain": "tqu.edu.vn",
-    "org": "Trường Đại học Tân Trào",
-    "country": "VN"
   },
   {
     "domain": "trabzon.edu.tr",
@@ -113020,11 +112825,6 @@
     "country": "FR"
   },
   {
-    "domain": "uca.ma",
-    "org": "Université Cadi Ayyad",
-    "country": "MA"
-  },
-  {
     "domain": "ucab.edu.ve",
     "org": "Universidad Católica Andres Bello",
     "country": "VE"
@@ -113480,11 +113280,6 @@
     "country": "CR"
   },
   {
-    "domain": "uci.edu",
-    "org": "University of California, Irvine",
-    "country": null
-  },
-  {
     "domain": "ucienega.edu.mx",
     "org": "Universidad De La Ciénega",
     "country": "MX"
@@ -113917,11 +113712,6 @@
   {
     "domain": "ucsmonywa.edu.mm",
     "org": "University of Computer Studies, Monywa",
-    "country": "MM"
-  },
-  {
-    "domain": "ucsmtla.edu.mm",
-    "org": "University of Computer Studies, Meiktila",
     "country": "MM"
   },
   {
@@ -119140,11 +118930,6 @@
     "country": "MX"
   },
   {
-    "domain": "uniatenas.edu.br",
-    "org": "Uniatenas Centro Universitário Atenas",
-    "country": "BR"
-  },
-  {
     "domain": "uniatlantico.edu.co",
     "org": "Universidad del Atlántico",
     "country": "CO"
@@ -119643,11 +119428,6 @@
     "domain": "unicornuniversity.net",
     "org": "Unicorn College",
     "country": null
-  },
-  {
-    "domain": "unicross.edu.ng",
-    "org": "University of Cross River State",
-    "country": "NG"
   },
   {
     "domain": "unicsul.br",
@@ -126880,11 +126660,6 @@
     "country": "MX"
   },
   {
-    "domain": "utem.edu.my",
-    "org": "Universiti Teknikal Malaysia Melaka",
-    "country": "MY"
-  },
-  {
     "domain": "utep.edu",
     "org": "University of Texas at El Paso",
     "country": null
@@ -129378,11 +129153,6 @@
     "domain": "vjcet.org",
     "org": "Viswajyothi College of Engineering and Technology",
     "country": null
-  },
-  {
-    "domain": "vjim.edu.in",
-    "org": "Vignana Jyothi Institute of Management",
-    "country": "IN"
   },
   {
     "domain": "vjis.edu.vn",
