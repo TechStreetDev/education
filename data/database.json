@@ -1125,11 +1125,6 @@
     "country": "SZ"
   },
   {
-    "domain": "ac.tu.edu.np",
-    "org": "Amrit Campus",
-    "country": "NP"
-  },
-  {
     "domain": "ac.yu",
     "org": null,
     "country": null
@@ -27945,11 +27940,6 @@
     "country": "IN"
   },
   {
-    "domain": "edu.riga.lv",
-    "org": "Riga Schools",
-    "country": "LV"
-  },
-  {
     "domain": "edu.riveria.fi",
     "org": "Riveria",
     "country": "FI"
@@ -44140,11 +44130,6 @@
     "country": "AU"
   },
   {
-    "domain": "hicas.ac.in",
-    "org": "Hindusthan College of Arts and Science, Coimbatore",
-    "country": "IN"
-  },
-  {
     "domain": "hickmank12.org",
     "org": "East Hickman High School",
     "country": null
@@ -55650,11 +55635,6 @@
     "country": "MX"
   },
   {
-    "domain": "itzacatepec.edu.mx",
-    "org": "Instituto Nacional de Mexico Campus Zacapetec",
-    "country": "MX"
-  },
-  {
     "domain": "iu-akademie.de",
     "org": "IU Internationale Hochschule GmbH",
     "country": "DE"
@@ -57495,11 +57475,6 @@
     "country": "SE"
   },
   {
-    "domain": "ju2.edu.et",
-    "org": "Jimma University",
-    "country": "ET"
-  },
-  {
     "domain": "juanxxiii.net",
     "org": "Centro de Formación Profesional Juan XXIII",
     "country": null
@@ -59268,11 +59243,6 @@
     "domain": "kettering.edu",
     "org": "Kettering University (GMI)",
     "country": null
-  },
-  {
-    "domain": "keu.kz",
-    "org": "Karaganda Economic University",
-    "country": "KZ"
   },
   {
     "domain": "keuka.edu",
@@ -66810,11 +66780,6 @@
     "country": "IT"
   },
   {
-    "domain": "lumbini.edu.np",
-    "org": "Lumbini engineering college",
-    "country": "NP"
-  },
-  {
     "domain": "lumc.nl",
     "org": "Leiden University Medical Center",
     "country": "NL"
@@ -69095,11 +69060,6 @@
     "country": "TR"
   },
   {
-    "domain": "mayaokullari.k12.tr",
-    "org": "Maya Okulları",
-    "country": "TR"
-  },
-  {
     "domain": "mayaschool.edu.vn",
     "org": "TRUÖNG PHÖ THÔNG LIÊN CÃP SONG NGÜ MAYA",
     "country": "VN"
@@ -70963,11 +70923,6 @@
     "domain": "middletownusd.org",
     "org": "Middletown High School",
     "country": null
-  },
-  {
-    "domain": "midkent.ac.uk",
-    "org": "MidKent College",
-    "country": "GB"
   },
   {
     "domain": "midlandps.org",
@@ -74910,11 +74865,6 @@
     "country": "CA"
   },
   {
-    "domain": "mylife.mku.ac.ke",
-    "org": "Mount Kenya University",
-    "country": "KE"
-  },
-  {
     "domain": "mylifeunisaac.onmicrosoft.com",
     "org": "University of South Africa",
     "country": null
@@ -77253,11 +77203,6 @@
     "domain": "nis.edu.kz",
     "org": "Nazarbayev Intellectual Schools",
     "country": "KZ"
-  },
-  {
-    "domain": "nisantasi.edu.tr",
-    "org": "Nişantaşı Üniversitesi",
-    "country": "TR"
   },
   {
     "domain": "nisd.net",
@@ -86388,11 +86333,6 @@
     "domain": "pvsd.org",
     "org": "Perkiomen Valley School District",
     "country": null
-  },
-  {
-    "domain": "pvu.edu.vn",
-    "org": "Trường Đại Học Dầu Khí Việt Nam",
-    "country": "VN"
   },
   {
     "domain": "pw.edu.pl",
@@ -95840,11 +95780,6 @@
     "country": "ID"
   },
   {
-    "domain": "sman1brebes.sch.id",
-    "org": "Sekolah Menengah Atas Negeri 1 Brebes",
-    "country": "ID"
-  },
-  {
     "domain": "sman1cirebon.sch.id",
     "org": "SMA Negeri 1 Cirebon",
     "country": "ID"
@@ -96773,11 +96708,6 @@
     "domain": "softuni.bg",
     "org": "Software University",
     "country": "BG"
-  },
-  {
-    "domain": "softwarica.edu.np",
-    "org": "Softwarica College of IT and E-Commerce, Maitri Marg, Dillibazar, Kathmandu",
-    "country": "NP"
   },
   {
     "domain": "sogang.ac.kr",
@@ -98852,11 +98782,6 @@
   {
     "domain": "st.hcmca.edu.vn",
     "org": "Ho Chi Minh City Cadre Academy",
-    "country": "VN"
-  },
-  {
-    "domain": "st.huce.edu.vn",
-    "org": "Hanoi University of Civil Engineering",
     "country": "VN"
   },
   {
@@ -112450,11 +112375,6 @@
     "country": "PE"
   },
   {
-    "domain": "uandresbello.edu",
-    "org": "Universidad Andres Bello",
-    "country": null
-  },
-  {
     "domain": "uane.edu.mx",
     "org": "Universidad Autónoma del Noreste",
     "country": "MX"
@@ -119290,11 +119210,6 @@
     "country": "BR"
   },
   {
-    "domain": "unibarranquilla.edu.co",
-    "org": "Institución Universitaria de Barranquilla",
-    "country": "CO"
-  },
-  {
     "domain": "unibas.ch",
     "org": "University of Basel",
     "country": "CH"
@@ -123608,11 +123523,6 @@
     "domain": "unt.edu.mk",
     "org": "Mother Teresa University",
     "country": "MK"
-  },
-  {
-    "domain": "untad.ac.id",
-    "org": "Universitas Tadulako",
-    "country": "ID"
   },
   {
     "domain": "untag-banyuwangi.ac.id",
