@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T00:08:57.359Z",
-  "count": 26993,
+  "generatedAt": "2026-10-11T16:29:44.284Z",
+  "count": 26994,
   "overridesApplied": 1,
   "source": {
     "repo": "https://github.com/JetBrains/swot",
-    "commit": "8c5a36acaf42e589b7faf4ca4472aac1597496b2",
+    "commit": "d41a0514bc33fcb3ae269e50af27e81ea8c663a2",
     "license": "MIT"
   }
 }
