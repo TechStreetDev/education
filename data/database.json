@@ -66680,6 +66680,11 @@
     "country": "IT"
   },
   {
+    "domain": "lum.edu.eg",
+    "org": "جامعة اللوتس بالمنيا",
+    "country": "EG"
+  },
+  {
     "domain": "lum.it",
     "org": "Università LUM \"Giuseppe Degennaro\"",
     "country": "IT"
@@ -70848,6 +70853,11 @@
     "domain": "midmich.edu",
     "org": "Mid Michigan College",
     "country": null
+  },
+  {
+    "domain": "mido.kg",
+    "org": "International University of Kyrgyzstan",
+    "country": "KG"
   },
   {
     "domain": "midvalley.edu.np",
