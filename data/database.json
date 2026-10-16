@@ -24565,6 +24565,11 @@
     "country": "IN"
   },
   {
+    "domain": "djtu.edu.cn",
+    "org": "Dalian Jiaotong University",
+    "country": "CN"
+  },
+  {
     "domain": "dju.ac.kr",
     "org": "Daejeon University",
     "country": "KR"
@@ -42463,6 +42468,11 @@
     "domain": "haringtonschool.com",
     "org": "Harrington School",
     "country": null
+  },
+  {
+    "domain": "hariwa.edu.af",
+    "org": "Hariwa University",
+    "country": "AF"
   },
   {
     "domain": "harkatnegeri.ac.id",
