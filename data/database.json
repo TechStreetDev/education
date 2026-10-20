@@ -34590,11 +34590,6 @@
     "country": "AT"
   },
   {
-    "domain": "fh-kufstein.ac.at",
-    "org": "Fachhochschule Kufstein (Tirol)",
-    "country": "AT"
-  },
-  {
     "domain": "fh-landshut.de",
     "org": "Fachhochschule Landshut, Hochschule für Wirtschaft - Sozialwesen - Technik",
     "country": "DE"
@@ -44918,6 +44913,11 @@
     "domain": "hogent.be",
     "org": "University College Ghent",
     "country": "BE"
+  },
+  {
+    "domain": "hok.ac.at",
+    "org": "Hochschule für Angewandte Wissenschaften Kufstein Tirol GmbH",
+    "country": "AT"
   },
   {
     "domain": "hokkai-s-u.ac.jp",
