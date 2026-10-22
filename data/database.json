@@ -3240,11 +3240,6 @@
     "country": "PL"
   },
   {
-    "domain": "aku.edu",
-    "org": "Aga Khan University",
-    "country": null
-  },
-  {
     "domain": "aku.edu.lb",
     "org": "Al Kaffaat University",
     "country": "LB"
@@ -26003,11 +25998,6 @@
     "domain": "dusit.ac.th",
     "org": "Suan Dusit Rajabhat University",
     "country": "TH"
-  },
-  {
-    "domain": "dusol.ac.in",
-    "org": "School of Open Learning, University of Delhi",
-    "country": "IN"
   },
   {
     "domain": "dut.edu.ua",
@@ -61823,11 +61813,6 @@
     "domain": "ku.sk",
     "org": "Catholic University in Ruzomberok",
     "country": "SK"
-  },
-  {
-    "domain": "ku.th",
-    "org": "Kasetsart University",
-    "country": "TH"
   },
   {
     "domain": "kua.org",
@@ -104227,11 +104212,6 @@
   {
     "domain": "students.berkeley.net",
     "org": "Berkeley High School",
-    "country": null
-  },
-  {
-    "domain": "students.berlinsbi.com",
-    "org": "Berlin School of Business and Innovation (BSBI)",
     "country": null
   },
   {
