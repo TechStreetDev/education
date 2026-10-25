@@ -68030,6 +68030,11 @@
     "country": "CN"
   },
   {
+    "domain": "mails.cuc.edu.cn",
+    "org": "Communication University of China",
+    "country": "CN"
+  },
+  {
     "domain": "mails.guet.edu.cn",
     "org": "Guilin University Of Electronic Technology",
     "country": "CN"
@@ -91428,6 +91433,11 @@
     "domain": "scheppersinstituut.be",
     "org": "Scheppersinstituut Deurne & Antwerpen",
     "country": "BE"
+  },
+  {
+    "domain": "schigy-og.de",
+    "org": "Schiller Gymnasium Offenburg",
+    "country": "DE"
   },
   {
     "domain": "schiller-gymnasium-bautzen.de",
