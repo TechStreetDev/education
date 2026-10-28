@@ -45210,6 +45210,11 @@
     "country": "KR"
   },
   {
+    "domain": "hoseo.edu",
+    "org": "호서대학교",
+    "country": null
+  },
+  {
     "domain": "hoshi.ac.jp",
     "org": "Hoshi University",
     "country": "JP"
@@ -128218,6 +128223,11 @@
     "domain": "vau.ac.lk",
     "org": "Univerisity of Vavuniya, Sri Lanka",
     "country": "LK"
+  },
+  {
+    "domain": "vau.edu.vn",
+    "org": "Vietnam Aerospace University",
+    "country": "VN"
   },
   {
     "domain": "vaucanson38.com",
