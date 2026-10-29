@@ -28835,6 +28835,11 @@
     "country": "MA"
   },
   {
+    "domain": "eheim.ac.ma",
+    "org": "École des Hautes Études d'Ingénierie et de Management",
+    "country": "MA"
+  },
+  {
     "domain": "ehess.fr",
     "org": "School for Advanced Studies in the Social Sciences",
     "country": "FR"
@@ -59600,6 +59605,11 @@
     "country": "PE"
   },
   {
+    "domain": "khitguntur.ac.in",
+    "org": "Kallam Haranadhareddy Institute of Technology",
+    "country": "IN"
+  },
+  {
     "domain": "khk.be",
     "org": "Katholieke Hogeschool Kempen",
     "country": "BE"
@@ -62698,6 +62708,11 @@
     "domain": "ladybirdschool.in",
     "org": "Ladybird Public School",
     "country": "IN"
+  },
+  {
+    "domain": "lafase.cl",
+    "org": "Lycée Francais Antoine de Saint-Exupéry de Santiago",
+    "country": "CL"
   },
   {
     "domain": "lafayette.edu",
@@ -70510,6 +70525,11 @@
     "country": null
   },
   {
+    "domain": "mgcub.ac.in",
+    "org": "Mahatma Gandhi Central University",
+    "country": "IN"
+  },
+  {
     "domain": "mgg.karlsruhe.de",
     "org": "Markgrafen-Gymnasium Karlsruhe",
     "country": "DE"
@@ -70838,6 +70858,11 @@
     "domain": "mibdu.org",
     "org": "MBA - International Business Delhi University",
     "country": null
+  },
+  {
+    "domain": "mic.edu.np",
+    "org": "Malpi International College",
+    "country": "NP"
   },
   {
     "domain": "mica.edu",
@@ -73853,6 +73878,11 @@
     "domain": "muchs.ac.tz",
     "org": "Muhimbili University of Health and Allied Sciences (MUHAS)",
     "country": "TZ"
+  },
+  {
+    "domain": "mucollege.ac.in",
+    "org": "Mazharul Uloom College",
+    "country": "IN"
   },
   {
     "domain": "muctr.edu.ru",
@@ -82580,6 +82610,11 @@
     "country": "ID"
   },
   {
+    "domain": "pdit.ac.in",
+    "org": "Proudadevaraya Institute of Technology",
+    "country": "IN"
+  },
+  {
     "domain": "pdmu.edu.ua",
     "org": "Полтавський державний медичний університет",
     "country": "UA"
@@ -90128,6 +90163,11 @@
     "domain": "saitostudent.edu.my",
     "org": "Saito University College",
     "country": "MY"
+  },
+  {
+    "domain": "saiuniversity.edu.in",
+    "org": "Sai University",
+    "country": "IN"
   },
   {
     "domain": "saividya.ac.in",
@@ -105255,6 +105295,11 @@
     "country": null
   },
   {
+    "domain": "stvincentngp.edu.in",
+    "org": "St. Vincent Pallotti College of Engineering & Technology",
+    "country": "IN"
+  },
+  {
     "domain": "stw.de",
     "org": "Steinbeis-Hochschule-Berlin",
     "country": "DE"
@@ -107852,6 +107897,11 @@
   {
     "domain": "technikumlodz.com.pl",
     "org": "TECHNIKUM ADMINISTRACYJNO-USŁUGOWE, Lodz",
+    "country": "PL"
+  },
+  {
+    "domain": "technikumlodz.pl",
+    "org": "Technikum Administracyjno-Usługowe w Łodzi",
     "country": "PL"
   },
   {
