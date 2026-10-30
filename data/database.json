@@ -68910,6 +68910,11 @@
     "country": "HR"
   },
   {
+    "domain": "math.jnu.ac.bd",
+    "org": "Jagannath University",
+    "country": "BD"
+  },
+  {
     "domain": "math.nits.ac.in",
     "org": "National Institute of Technology Silchar",
     "country": "IN"
@@ -81198,6 +81203,11 @@
     "domain": "osbrod.si",
     "org": "Osnovna Šola Vižmarje-Brod",
     "country": "SI"
+  },
+  {
+    "domain": "osce-academy.net",
+    "org": "OSCE Academy in Bishkek",
+    "country": null
   },
   {
     "domain": "osgh.nl",
@@ -109830,6 +109840,11 @@
     "country": "TW"
   },
   {
+    "domain": "tmuc.edu.pk",
+    "org": "The Millennium Universal College",
+    "country": "PK"
+  },
+  {
     "domain": "tmudaihoctuxa.vn",
     "org": "TRUONG DAI HOC THUONG MAI",
     "country": "VN"
@@ -132122,6 +132137,11 @@
   {
     "domain": "woodstockacademy.org",
     "org": "The Woodstock Academy",
+    "country": null
+  },
+  {
+    "domain": "woolf.education",
+    "org": "Woolf",
     "country": null
   },
   {
