@@ -10740,6 +10740,11 @@
     "country": "CN"
   },
   {
+    "domain": "bitcollege.in",
+    "org": "Techno Bengal Institute of Technology",
+    "country": "IN"
+  },
+  {
     "domain": "bitdurg.ac.in",
     "org": "Bhilai Institute of Technology, Durg",
     "country": "IN"
@@ -69225,6 +69230,11 @@
     "country": null
   },
   {
+    "domain": "mc.edu.eg",
+    "org": "Mansoura High Institute for Engineering and Technology",
+    "country": "EG"
+  },
+  {
     "domain": "mc3.edu",
     "org": "Montgomery County Community College",
     "country": null
@@ -108748,6 +108758,11 @@
     "domain": "thebes.edu.eg",
     "org": "اكاديمية طيبة",
     "country": "EG"
+  },
+  {
+    "domain": "thebges.edu.in",
+    "org": "The Bhawanipur Education Society College",
+    "country": "IN"
   },
   {
     "domain": "thebritishschool.pl",
