@@ -65810,6 +65810,11 @@
     "country": "IN"
   },
   {
+    "domain": "lnmu.edu.ua",
+    "org": "ДНТ “Львівський національний медичний університет імені Короля Данила”",
+    "country": "UA"
+  },
+  {
     "domain": "lnnu.edu.cn",
     "org": "Liaoning Normal University",
     "country": "CN"
@@ -75357,6 +75362,11 @@
   {
     "domain": "nalanda.edu.in",
     "org": "Nalanda Vidya Niketan",
+    "country": "IN"
+  },
+  {
+    "domain": "nalandauniv.edu.in",
+    "org": "Nalanda University",
     "country": "IN"
   },
   {
@@ -85405,6 +85415,11 @@
     "country": null
   },
   {
+    "domain": "providence.edu.in",
+    "org": "Providence College of Engineering",
+    "country": "IN"
+  },
+  {
     "domain": "providenceday.org",
     "org": "Providence Day School",
     "country": null
@@ -89493,6 +89508,11 @@
     "domain": "rythovius.nl",
     "org": "Rythovius College",
     "country": "NL"
+  },
+  {
+    "domain": "ryukoku.ac.jp",
+    "org": "Ryukoku University",
+    "country": "JP"
   },
   {
     "domain": "rz.ba-dresden.de",
@@ -116930,6 +116950,11 @@
     "country": "VE"
   },
   {
+    "domain": "uma.es",
+    "org": "Universidad de Málaga",
+    "country": "ES"
+  },
+  {
     "domain": "uma.pt",
     "org": "Universidade da Madeira",
     "country": "PT"
@@ -119602,6 +119627,11 @@
   {
     "domain": "uniciv.com.br",
     "org": "UNICIV - POS GRADUAÇÂO EAD EM TI.",
+    "country": "BR"
+  },
+  {
+    "domain": "unicive.edu.br",
+    "org": "Centro Universitário Cidade Verde",
     "country": "BR"
   },
   {
@@ -123612,6 +123642,11 @@
   {
     "domain": "unugiri.ac.id",
     "org": "Universitas Nahdlatul Ulama Sunan Giri",
+    "country": "ID"
+  },
+  {
+    "domain": "unukalbar.ac.id",
+    "org": "Universitas Nahdlatul Ulama Kalimantan Barat",
     "country": "ID"
   },
   {
