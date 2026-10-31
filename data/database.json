@@ -5840,6 +5840,11 @@
     "country": null
   },
   {
+    "domain": "apu.edu.my",
+    "org": "Asia Pacific University of Technology and Innovation.",
+    "country": "MY"
+  },
+  {
     "domain": "apu.edu.vn",
     "org": "APU AMERICAN INTERNATIONAL SCHOOL",
     "country": "VN"
@@ -7783,6 +7788,11 @@
     "domain": "avans.nl",
     "org": "Avans University of Applied Sciences",
     "country": "NL"
+  },
+  {
+    "domain": "avantika.edu.in",
+    "org": "Avantika University",
+    "country": "IN"
   },
   {
     "domain": "avbo.it",
@@ -33798,6 +33808,11 @@
     "domain": "fcpsschools.net",
     "org": "Fairfax County Schools",
     "country": null
+  },
+  {
+    "domain": "fcrit.ac.in",
+    "org": "फादर सी. रोड्रिग्ज तंत्रज्ञान संस्था, वाशी, नवी मुंबई",
+    "country": "IN"
   },
   {
     "domain": "fcroc.nl",
@@ -83495,6 +83510,11 @@
     "country": null
   },
   {
+    "domain": "piemr.edu.in",
+    "org": "Prestige Institute of Engineering Management and Research",
+    "country": "IN"
+  },
+  {
     "domain": "pierce.ctc.edu",
     "org": "Pierce College",
     "country": null
@@ -116005,6 +116025,11 @@
     "country": "ID"
   },
   {
+    "domain": "uinssc.ac.id",
+    "org": "UIN Siber Syekh Nurjati Cirebon",
+    "country": "ID"
+  },
+  {
     "domain": "uinsu.ac.id",
     "org": "Univeristas Islam Negeri Sumatera Utara",
     "country": "ID"
@@ -120923,6 +120948,11 @@
     "domain": "unipli.com.br",
     "org": "Centro Universitário Plinio Leite",
     "country": "BR"
+  },
+  {
+    "domain": "unipma.ac.id",
+    "org": "Universitas PGRI Madiun",
+    "country": "ID"
   },
   {
     "domain": "unipmn.it",
