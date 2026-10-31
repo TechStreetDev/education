@@ -1700,6 +1700,11 @@
     "country": "IN"
   },
   {
+    "domain": "addeturiskola.hu",
+    "org": "Addetur Baptista Gimnázium, Szakgimnázium és Szakiskola",
+    "country": "HU"
+  },
+  {
     "domain": "addu.edu.ph",
     "org": "Ateneo de Davao University",
     "country": "PH"
@@ -35103,6 +35108,11 @@
     "domain": "filmakademie.de",
     "org": "Filmakademie Baden-Württemberg",
     "country": "DE"
+  },
+  {
+    "domain": "filmomusikgymnasiet.se",
+    "org": "Film & Musikgymnasiet",
+    "country": "SE"
   },
   {
     "domain": "filmschool.lodz.pl",
@@ -77030,6 +77040,11 @@
     "country": "CA"
   },
   {
+    "domain": "niapune.org.in",
+    "org": "National Insurance Academy, Pune",
+    "country": "IN"
+  },
+  {
     "domain": "nias.ac.jp",
     "org": "Nagasaki Institute of Applied Science",
     "country": "JP"
@@ -89690,6 +89705,11 @@
     "country": "GB"
   },
   {
+    "domain": "sa-uc.edu.iq",
+    "org": "جامعة شط العرب",
+    "country": "IQ"
+  },
+  {
     "domain": "sa.edu",
     "org": "St. Aloysius College",
     "country": null
@@ -92137,6 +92157,11 @@
   {
     "domain": "scls-sh.org",
     "org": "上海宋庆龄学校",
+    "country": null
+  },
+  {
+    "domain": "scmhrd.edu",
+    "org": "Symbiosis Centre for Management and Human Resource Development",
     "country": null
   },
   {
@@ -110740,6 +110765,11 @@
     "country": null
   },
   {
+    "domain": "tsecmumbai.in",
+    "org": "Thakur Shyamnarayan Engineering College",
+    "country": "IN"
+  },
+  {
     "domain": "tsecol.onmicrosoft.com",
     "org": "Thadomal Shahani Engineering College, Mumbai, India",
     "country": null
@@ -122485,6 +122515,11 @@
     "country": null
   },
   {
+    "domain": "universalai.in",
+    "org": "Universal AI University",
+    "country": "IN"
+  },
+  {
     "domain": "universidad-policial.edu.ar",
     "org": "Instituto Universitario de la Policia Federal",
     "country": "AR"
@@ -123808,6 +123843,11 @@
     "domain": "uoc.edu",
     "org": "Universitat Oberta de Catalunya",
     "country": null
+  },
+  {
+    "domain": "uoc.edu.pk",
+    "org": "The University of Chakwal",
+    "country": "PK"
   },
   {
     "domain": "uoc.es",
