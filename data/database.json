@@ -85875,6 +85875,11 @@
     "country": null
   },
   {
+    "domain": "ptiq.ac.id",
+    "org": "Universitas PTIQ Jakarta",
+    "country": "ID"
+  },
+  {
     "domain": "ptit.edu.vn",
     "org": "Posts & Telecommunications Institude of Technology",
     "country": "VN"
@@ -96207,6 +96212,11 @@
   {
     "domain": "smkmussi.sch.id",
     "org": "SMK Muhammadiyah Kesesi",
+    "country": "ID"
+  },
+  {
+    "domain": "smkn-2sbg.sch.id",
+    "org": "SMK Negeri 2 Subang",
     "country": "ID"
   },
   {
@@ -130758,6 +130768,11 @@
     "domain": "wbgym.de",
     "org": "Weinberg Gymnasium Kleinmachnow",
     "country": "DE"
+  },
+  {
+    "domain": "wbi.ac.id",
+    "org": "Politeknik Wilmar Bisnis Indonesia",
+    "country": "ID"
   },
   {
     "domain": "wbs-schulen.de",
