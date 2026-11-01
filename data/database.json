@@ -54815,6 +54815,11 @@
     "country": "CZ"
   },
   {
+    "domain": "ith.ac.id",
+    "org": "Institut Teknologi Bacharuddin Jusuf Habibie",
+    "country": "ID"
+  },
+  {
     "domain": "ith.edu.np",
     "org": "Impact Tech School",
     "country": "NP"
@@ -110710,6 +110715,11 @@
     "country": "SK"
   },
   {
+    "domain": "trunojoyo.ac.id",
+    "org": "Universitas Trunojoyo Madura",
+    "country": "ID"
+  },
+  {
     "domain": "truro-penwith.ac.uk",
     "org": "Truro & Penwith College",
     "country": "GB"
@@ -122667,6 +122677,11 @@
   {
     "domain": "universitasbumigora.ac.id",
     "org": "Universitas Bumigora",
+    "country": "ID"
+  },
+  {
+    "domain": "universitasdumai.ac.id",
+    "org": "Universitas Dumai",
     "country": "ID"
   },
   {
