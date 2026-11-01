@@ -32680,6 +32680,11 @@
     "country": null
   },
   {
+    "domain": "euridis.net",
+    "org": "Euridis Business School",
+    "country": null
+  },
+  {
     "domain": "euroakadeemia.ee",
     "org": "Euroakadeemia",
     "country": "EE"
@@ -124128,6 +124133,11 @@
     "domain": "uolen.fr",
     "org": "Universite Uolentec",
     "country": "FR"
+  },
+  {
+    "domain": "uom.ac.lk",
+    "org": "university of moratuwa",
+    "country": "LK"
   },
   {
     "domain": "uom.ac.mu",
