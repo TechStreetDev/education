@@ -8655,6 +8655,11 @@
     "country": null
   },
   {
+    "domain": "battuta.ac.id",
+    "org": "Universitas Battuta",
+    "country": "ID"
+  },
+  {
     "domain": "bau.ac.kr",
     "org": "백석예술대학교",
     "country": "KR"
@@ -96185,6 +96190,11 @@
     "country": "ID"
   },
   {
+    "domain": "smkdaarulabroor.sch.id",
+    "org": "SMK Daarul Abroor",
+    "country": "ID"
+  },
+  {
     "domain": "smkdwiguna.sch.id",
     "org": "SMK TI DWIGUNA",
     "country": "ID"
@@ -99708,6 +99718,11 @@
     "domain": "stiftsschule-engelberg.ch",
     "org": "Stiftsschule Engelberg",
     "country": "CH"
+  },
+  {
+    "domain": "stikes-yrsds.ac.id",
+    "org": "Sekolah Tinggi Ilmu Kesehatan Yayasan Rumah Sakit Dr. Soetomo",
+    "country": "ID"
   },
   {
     "domain": "stiki-indonesia.ac.id",
