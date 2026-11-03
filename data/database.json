@@ -3000,6 +3000,11 @@
     "country": "PL"
   },
   {
+    "domain": "ajiet.edu.in",
+    "org": "A J Institute of Engineering & Technology",
+    "country": "IN"
+  },
+  {
     "domain": "ajku.edu.pk",
     "org": "Azad Jammu and Kashmir University",
     "country": "PK"
@@ -38127,6 +38132,11 @@
   {
     "domain": "gec.ac.in",
     "org": "Goa College of Engineering (Government of Goa)",
+    "country": "IN"
+  },
+  {
+    "domain": "gec.edu.in",
+    "org": "Gandhi Engineering College",
     "country": "IN"
   },
   {
@@ -120165,6 +120175,11 @@
     "country": "ID"
   },
   {
+    "domain": "unigal.ac.id",
+    "org": "Universitas Galuh",
+    "country": "ID"
+  },
+  {
     "domain": "unigamalang.ac.id",
     "org": "Universitas Gajayana Malang",
     "country": "ID"
@@ -122772,6 +122787,11 @@
   {
     "domain": "university-365.com",
     "org": "University 365",
+    "country": null
+  },
+  {
+    "domain": "university.edu",
+    "org": "Shivaji University, Kolhapur.",
     "country": null
   },
   {
