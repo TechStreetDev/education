@@ -62715,6 +62715,11 @@
     "country": null
   },
   {
+    "domain": "lachong.edu.vn",
+    "org": "Lạc Hồng University",
+    "country": "VN"
+  },
+  {
     "domain": "lacitec.on.ca",
     "org": "La Cité College, Canada",
     "country": "CA"
@@ -71793,6 +71798,11 @@
     "domain": "mka.org",
     "org": "Montclair Kimberley Academy",
     "country": null
+  },
+  {
+    "domain": "mkau.edu.et",
+    "org": "Mekdela Amba University",
+    "country": "ET"
   },
   {
     "domain": "mkce.ac.in",
@@ -123757,6 +123767,11 @@
   {
     "domain": "unugiri.ac.id",
     "org": "Universitas Nahdlatul Ulama Sunan Giri",
+    "country": "ID"
+  },
+  {
+    "domain": "unuha.ac.id",
+    "org": "Universitas Nurul Huda",
     "country": "ID"
   },
   {
