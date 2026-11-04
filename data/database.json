@@ -24625,6 +24625,11 @@
     "country": "IE"
   },
   {
+    "domain": "dkte.ac.in",
+    "org": "DKTE Society's Textile and Engineering Institute",
+    "country": "IN"
+  },
+  {
     "domain": "dkttc.ac.th",
     "org": "วิทยาลัยเทคนิคดอกคำใต้",
     "country": "TH"
@@ -65720,6 +65725,11 @@
     "country": null
   },
   {
+    "domain": "lmcp.ac.in",
+    "org": "L.M. College of Pharmacy",
+    "country": "IN"
+  },
+  {
     "domain": "lmdc.edu.pk",
     "org": "Lahore Medical and Dental College",
     "country": "PK"
@@ -67497,6 +67507,11 @@
   {
     "domain": "madeiratorres.com",
     "org": "Agrupamento de Escolas Madeira Torres",
+    "country": null
+  },
+  {
+    "domain": "maderausd.org",
+    "org": "Madera Unified School District",
     "country": null
   },
   {
