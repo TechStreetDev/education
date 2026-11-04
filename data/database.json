@@ -10080,6 +10080,11 @@
     "country": "BD"
   },
   {
+    "domain": "bgiet.ac.in",
+    "org": "Bhai Gurdas Institute of Engineering and Technology",
+    "country": "IN"
+  },
+  {
     "domain": "bginette.fr",
     "org": "Lycée Privée Sainte-Geneviève",
     "country": "FR"
@@ -10817,6 +10822,11 @@
   {
     "domain": "bitspilani-digital.edu.in",
     "org": "BITS Pilani Digital",
+    "country": "IN"
+  },
+  {
+    "domain": "bitswgl.ac.in",
+    "org": "Balaji Institute of Technology & Science",
     "country": "IN"
   },
   {
@@ -39455,6 +39465,11 @@
     "country": "IN"
   },
   {
+    "domain": "glsuniversity.ac.in",
+    "org": "GLS University",
+    "country": "IN"
+  },
+  {
     "domain": "gltech.org",
     "org": "Greater Lowell Technical High School",
     "country": null
@@ -62293,6 +62308,11 @@
     "domain": "kvg-mettingen.de",
     "org": "Kardinal von Galen Gymnasium Mettingen",
     "country": "DE"
+  },
+  {
+    "domain": "kvgce.ac.in",
+    "org": "KVG College of Engineering",
+    "country": "IN"
   },
   {
     "domain": "kvgg.de",
@@ -98455,6 +98475,11 @@
     "country": "CZ"
   },
   {
+    "domain": "ssasit.ac.in",
+    "org": "Shree Swami Atmanand Saraswati Institute of Technology",
+    "country": "IN"
+  },
+  {
     "domain": "ssau.ru",
     "org": "Samara State Aerospace University",
     "country": "RU"
@@ -103603,6 +103628,11 @@
     "domain": "student.stlukes.nsw.edu.au",
     "org": "St Luke's Grammar School",
     "country": "AU"
+  },
+  {
+    "domain": "student.stmik.tazkia.ac.id",
+    "org": "STMIK Tazkia",
+    "country": "ID"
   },
   {
     "domain": "student.strode-college.ac.uk",
