@@ -13260,6 +13260,11 @@
     "country": "ID"
   },
   {
+    "domain": "bunka-fc.ac.jp",
+    "org": "Bunka Fashion College",
+    "country": "JP"
+  },
+  {
     "domain": "bunka-wu.ac.jp",
     "org": "Bunka Women's University",
     "country": "JP"
@@ -125743,6 +125748,11 @@
     "domain": "usal.edu.lb",
     "org": "University of Sciences and Arts in Lebanon",
     "country": "LB"
+  },
+  {
+    "domain": "usal.es",
+    "org": "Universidad de Salamanca, Spain",
+    "country": "ES"
   },
   {
     "domain": "usam.ac.cr",
