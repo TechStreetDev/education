@@ -62245,6 +62245,11 @@
     "country": "NP"
   },
   {
+    "domain": "kust.edu.cn",
+    "org": "昆明理工大学",
+    "country": "CN"
+  },
+  {
     "domain": "kust.edu.pk",
     "org": "Kohat University of Science and Technology  (KUST)",
     "country": "PK"
@@ -133471,7 +133476,7 @@
   },
   {
     "domain": "xtu.edu.cn",
-    "org": "Xiangtan University",
+    "org": "湘潭大学",
     "country": "CN"
   },
   {
