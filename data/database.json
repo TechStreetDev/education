@@ -60515,6 +60515,11 @@
     "country": "CH"
   },
   {
+    "domain": "kmeaartscollege.ac.in",
+    "org": "KMEA College of Arts and Science",
+    "country": "IN"
+  },
+  {
     "domain": "kmg-fn.de",
     "org": "Karl-Maybach-Gymnasium Friedrichshafen",
     "country": "DE"
@@ -76753,6 +76758,11 @@
     "domain": "newhaven.edu",
     "org": "University of New Haven",
     "country": null
+  },
+  {
+    "domain": "newhorizon.edu.np",
+    "org": "New Horizon College",
+    "country": "NP"
   },
   {
     "domain": "newhorizonindia.edu",
