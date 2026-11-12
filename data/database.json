@@ -7556,7 +7556,7 @@
   },
   {
     "domain": "aun.edu.eg",
-    "org": "Assiut University",
+    "org": "جامعة أسيوط",
     "country": "EG"
   },
   {
@@ -86998,6 +86998,11 @@
     "domain": "raabeschule.net",
     "org": "Gymnasium Raabeschule Braunschweig",
     "country": null
+  },
+  {
+    "domain": "raalbarkah.sch.id",
+    "org": "RA Al - Barkah",
+    "country": "ID"
   },
   {
     "domain": "raanana.eduil.org",
