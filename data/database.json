@@ -56935,6 +56935,11 @@
     "country": "CN"
   },
   {
+    "domain": "jic.ac.id",
+    "org": "Jakarta International College",
+    "country": "ID"
+  },
+  {
     "domain": "jichi.ac.jp",
     "org": "Jichi Medical School",
     "country": "JP"
@@ -120418,6 +120423,11 @@
     "domain": "unii.ac.jp",
     "org": "新潟県立大学",
     "country": "JP"
+  },
+  {
+    "domain": "uniji.ac.id",
+    "org": "University of Jakarta International",
+    "country": "ID"
   },
   {
     "domain": "unijorge.com.br",
