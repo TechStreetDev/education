@@ -55850,6 +55850,11 @@
     "country": "IT"
   },
   {
+    "domain": "iuea.ac.ug",
+    "org": "International University of East Africa",
+    "country": "UG"
+  },
+  {
     "domain": "iufs.edu",
     "org": "International University of Fundamental Studies, St. Petersburg",
     "country": null
@@ -133378,6 +133383,11 @@
     "domain": "xaut.edu.cn",
     "org": "Xi'an University of Technology",
     "country": "CN"
+  },
+  {
+    "domain": "xavier.ac.in",
+    "org": "Xavier Institute of Engineering, Mumbai",
+    "country": "IN"
   },
   {
     "domain": "xavier.edu",
