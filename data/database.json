@@ -4055,6 +4055,11 @@
     "country": "DK"
   },
   {
+    "domain": "alumni.rosma.ac.id",
+    "org": "STMIK Rosma",
+    "country": "ID"
+  },
+  {
     "domain": "alumno.clavijero.edu.mx",
     "org": "Instituto Consorcio Clavijero",
     "country": "MX"
@@ -4618,6 +4623,11 @@
     "domain": "alunos.ulht.pt",
     "org": "Universidade Lusofona Porto",
     "country": "PT"
+  },
+  {
+    "domain": "alunos.uneal.edu.br",
+    "org": "Universidade Estadual de Alagoas",
+    "country": "BR"
   },
   {
     "domain": "alunos.unifanor.edu.br",
@@ -15253,6 +15263,11 @@
     "domain": "ccmu.edu.cn",
     "org": "Capital Medical University",
     "country": "CN"
+  },
+  {
+    "domain": "ccnb.ca",
+    "org": "College communautaire du Nouveau Brunswick (CCNB)",
+    "country": "CA"
   },
   {
     "domain": "ccndpr.com",
@@ -96082,6 +96097,11 @@
   {
     "domain": "sman1liwa.sch.id",
     "org": "SMAN 1 LIWA",
+    "country": "ID"
+  },
+  {
+    "domain": "sman1rawamerta.sch.id",
+    "org": "SMA Negeri 1 Rawamerta",
     "country": "ID"
   },
   {
