@@ -2780,11 +2780,6 @@
     "country": "IN"
   },
   {
-    "domain": "aiou.edu.pk",
-    "org": "Allama Iqbal Open University",
-    "country": "PK"
-  },
-  {
     "domain": "aircas.ac.cn",
     "org": "中国科学院空天信息创新研究院",
     "country": "CN"
@@ -2873,11 +2868,6 @@
     "domain": "ait.ac.th",
     "org": "Asian Institute of Technology",
     "country": "TH"
-  },
-  {
-    "domain": "ait.asia",
-    "org": "Asian Institute of Technology, Thailand",
-    "country": null
   },
   {
     "domain": "ait.edu.gh",
@@ -3012,11 +3002,6 @@
   {
     "domain": "ajman.ac.ae",
     "org": "Ajman University of Science &amp; Technology",
-    "country": "AE"
-  },
-  {
-    "domain": "ajmanuni.ac.ae",
-    "org": "Ajman University of Science and Technology",
     "country": "AE"
   },
   {
@@ -3753,11 +3738,6 @@
     "domain": "allhallows.net",
     "org": "All Hallows Catholic School",
     "country": null
-  },
-  {
-    "domain": "alliance.edu.in",
-    "org": "Alliance University (Bengaluru, India)",
-    "country": "IN"
   },
   {
     "domain": "allsaintshigh.org",
@@ -4595,11 +4575,6 @@
     "country": "BR"
   },
   {
-    "domain": "alunos.fibbauru.br",
-    "org": "FIB - Faculdades Integradas de Bauru",
-    "country": "BR"
-  },
-  {
     "domain": "alunos.funepe.edu.br",
     "org": "Funepe (Fundação Educacional de Penápolis)",
     "country": "BR"
@@ -4948,11 +4923,6 @@
     "domain": "amity.edu",
     "org": "Amity university",
     "country": null
-  },
-  {
-    "domain": "amitydubai.ae",
-    "org": "Amity University Dubai",
-    "country": "AE"
   },
   {
     "domain": "amityonline.com",
@@ -5808,11 +5778,6 @@
     "domain": "apsit.edu.in",
     "org": "A.P. Shah Institute of Technology",
     "country": "IN"
-  },
-  {
-    "domain": "apsk12.org",
-    "org": "Midtown High School",
-    "country": null
   },
   {
     "domain": "apsshankarvihar.ac.in",
@@ -8288,11 +8253,6 @@
     "domain": "bahiana.edu.br",
     "org": "Escola Bahiana de Medicina e Saúde Pública",
     "country": "BR"
-  },
-  {
-    "domain": "bahria.edu.pk",
-    "org": "Bahria University",
-    "country": "PK"
   },
   {
     "domain": "baika.ac.jp",
@@ -12170,11 +12130,6 @@
     "country": "CA"
   },
   {
-    "domain": "broeders.be",
-    "org": "Broederscholen Hiëronymus",
-    "country": "BE"
-  },
-  {
     "domain": "bronxvilleschool.org",
     "org": "Bronxville School",
     "country": null
@@ -12268,11 +12223,6 @@
     "domain": "brsu.by",
     "org": "Брестский государственный университет имени А.С. Пушкина",
     "country": "BY"
-  },
-  {
-    "domain": "bru.ac.th",
-    "org": "มหาวิทยาลัยราชภัฏบุรีรัมย์",
-    "country": "TH"
   },
   {
     "domain": "bru.by",
@@ -13150,11 +13100,6 @@
     "country": "JP"
   },
   {
-    "domain": "bue.edu.ar",
-    "org": "UNIVERSIDAD TECNOLÓGICA NACIONAL",
-    "country": "AR"
-  },
-  {
     "domain": "bue.edu.eg",
     "org": "The British University in Egypt",
     "country": "EG"
@@ -13518,11 +13463,6 @@
     "domain": "bvisvietnam.net",
     "org": "British Vietnamese International School, Ho Chi Minh City (Trường Quốc Tế Đa Cấp Anh Việt - Thành phố Hồ Chí Minh)",
     "country": null
-  },
-  {
-    "domain": "bvmcollege.in",
-    "org": "Birla Vishvakarma Mahavidyalaya Engineering College",
-    "country": "IN"
   },
   {
     "domain": "bvmengineering.ac.in",
@@ -14068,11 +14008,6 @@
     "domain": "campbell.edu",
     "org": "Campbell University",
     "country": null
-  },
-  {
-    "domain": "campbell.kyschools.us",
-    "org": "Campbell County Schools",
-    "country": "US"
   },
   {
     "domain": "campbellhall.org",
@@ -15243,11 +15178,6 @@
     "domain": "ccis.edu.in",
     "org": "Cosmos Castle International School",
     "country": "IN"
-  },
-  {
-    "domain": "ccisd.net",
-    "org": "Clear Creek Independent School District",
-    "country": null
   },
   {
     "domain": "ccit.ccit.js.cn",
@@ -18740,11 +18670,6 @@
     "country": "RO"
   },
   {
-    "domain": "cncivirtual.mx",
-    "org": "Universidad CNCI",
-    "country": "MX"
-  },
-  {
     "domain": "cncnc.edu.cn",
     "org": "Changchun Teachers College",
     "country": "CN"
@@ -18848,11 +18773,6 @@
     "domain": "cnio.es",
     "org": "Centro Nacional de Investigaciones Oncológicas (CNIO) - Instituto de salud Carlos III",
     "country": "ES"
-  },
-  {
-    "domain": "cnislavici.ro",
-    "org": "Colegiul National „Ioan Slavici” Satu Mare",
-    "country": "RO"
   },
   {
     "domain": "cnivor.ro",
@@ -19098,16 +19018,6 @@
     "domain": "cobat.edu.mx",
     "org": "Colegio de Bachilleres del Estado de Tamaulipas",
     "country": "MX"
-  },
-  {
-    "domain": "cobatab.edu.mx",
-    "org": "Colegio de Bachilleres de Tabasco",
-    "country": "MX"
-  },
-  {
-    "domain": "cobbk12.org",
-    "org": "Wheeler High School",
-    "country": null
   },
   {
     "domain": "cobianchi.it",
@@ -21345,11 +21255,6 @@
     "country": "CN"
   },
   {
-    "domain": "csmu.edu.tw",
-    "org": "CHUNG SHAN MEDICAL UNIVERSITY",
-    "country": "TW"
-  },
-  {
     "domain": "csn.edu",
     "org": "College of Southern Nevada",
     "country": null
@@ -22303,11 +22208,6 @@
     "domain": "cut.ac.cy",
     "org": "Cyprus University of Technology",
     "country": "CY"
-  },
-  {
-    "domain": "cut.ac.za",
-    "org": "Central University of Technology, Free State",
-    "country": "ZA"
   },
   {
     "domain": "cut.ac.zw",
@@ -23540,11 +23440,6 @@
     "country": null
   },
   {
-    "domain": "deensacademy.org",
-    "org": "Deens Academy",
-    "country": null
-  },
-  {
     "domain": "deepsprings.edu",
     "org": "Deep Springs College",
     "country": null
@@ -23578,11 +23473,6 @@
     "domain": "dei.edu.gr",
     "org": "DEI Bachelor &amp; Master Degrees",
     "country": "GR"
-  },
-  {
-    "domain": "dekalbschoolsga.org",
-    "org": "High school in Dekalb County, GA, US",
-    "country": null
   },
   {
     "domain": "del.ac.id",
@@ -24820,11 +24710,6 @@
     "country": "PH"
   },
   {
-    "domain": "dmscollege.ac.in",
-    "org": "Dnyanprassarak Mandal's College & Research Centre",
-    "country": "IN"
-  },
-  {
     "domain": "dmu.ac.kr",
     "org": "dongyang university",
     "country": "KR"
@@ -25885,11 +25770,6 @@
     "country": null
   },
   {
-    "domain": "duet.edu.pk",
-    "org": "Dawood University of Engineering and Technology",
-    "country": "PK"
-  },
-  {
     "domain": "duet.edu.ua",
     "org": "Державний університет економіки і технологій",
     "country": "UA"
@@ -26513,11 +26393,6 @@
     "domain": "easj.dk",
     "org": "ErhvervsAkademi Sjælland",
     "country": "DK"
-  },
-  {
-    "domain": "eastbarnetschool.com",
-    "org": "East Barnet School",
-    "country": null
   },
   {
     "domain": "eastbay.college.ac.ci",
@@ -28405,11 +28280,6 @@
     "country": "ES"
   },
   {
-    "domain": "educacionadventista.org.ar",
-    "org": "Educación Adventista",
-    "country": "AR"
-  },
-  {
     "domain": "educadventista.org.br",
     "org": "Centro universitário adventista de São Paulo",
     "country": "BR"
@@ -28580,11 +28450,6 @@
     "country": "GB"
   },
   {
-    "domain": "edukom.org",
-    "org": "Javna ustanova Srednjoškolski centar Pale",
-    "country": null
-  },
-  {
     "domain": "edukomplex.cz",
     "org": "European Polytechnic Institute",
     "country": "CZ"
@@ -28608,11 +28473,6 @@
     "domain": "edupro.cl",
     "org": "Liceo José Victorino Lastarria",
     "country": "CL"
-  },
-  {
-    "domain": "eduprovence.fr",
-    "org": "Collège Roy d'Espagne",
-    "country": "FR"
   },
   {
     "domain": "eduservices.org",
@@ -29317,11 +29177,6 @@
   {
     "domain": "elektronik.edu.pl",
     "org": "Zespół Szkół Elektronicznych im. Bohaterów Westerplatte w Radomiu",
-    "country": "PL"
-  },
-  {
-    "domain": "elektronik.zgora.pl",
-    "org": "Centrum Kształcenia Zawodowego i Ustawicznego nr 2 \"Elektronik\" w Zielonej Górze",
     "country": "PL"
   },
   {
@@ -30745,11 +30600,6 @@
     "country": "MT"
   },
   {
-    "domain": "epid-vauban.fr",
-    "org": "Groupe Scolaire EPID-Vauban",
-    "country": "FR"
-  },
-  {
     "domain": "epin.fr",
     "org": "EPIN",
     "country": "FR"
@@ -31915,11 +31765,6 @@
     "country": "EC"
   },
   {
-    "domain": "est.ikiam.edu.ec",
-    "org": "Universidad Regional Amazónica Ikiam",
-    "country": "EC"
-  },
-  {
     "domain": "est.itstena.edu.ec",
     "org": "INSTITUTO SUPERIOR TECNOLOGICO TENA",
     "country": "EC"
@@ -32695,11 +32540,6 @@
     "country": "IT"
   },
   {
-    "domain": "eui.edu.eg",
-    "org": "Egypt University of Informatics",
-    "country": "EG"
-  },
-  {
     "domain": "eui.eu",
     "org": "European University Institute",
     "country": null
@@ -33345,11 +33185,6 @@
     "country": "AT"
   },
   {
-    "domain": "fadipa.br",
-    "org": "Faculdade de Ipatinga - FADIPA",
-    "country": "BR"
-  },
-  {
     "domain": "fae.edu",
     "org": "FAE Business School - Faculdade de Administração e Economia",
     "country": null
@@ -33893,11 +33728,6 @@
     "domain": "fcroc.nl",
     "org": "Friesland College",
     "country": "NL"
-  },
-  {
-    "domain": "fcstu.org",
-    "org": "Fulton County Schools",
-    "country": null
   },
   {
     "domain": "fctunca.edu.py",
@@ -41245,11 +41075,6 @@
     "country": "CN"
   },
   {
-    "domain": "gust.edu.kw",
-    "org": "Gulf University for Science and Technology",
-    "country": "KW"
-  },
-  {
     "domain": "gustav-heinemann-oberschule.de",
     "org": "Gustav-Heinemann-Oberschule",
     "country": "DE"
@@ -43120,11 +42945,6 @@
     "country": "NP"
   },
   {
-    "domain": "hcps.net",
-    "org": "Hillsborough County Public Schools",
-    "country": null
-  },
-  {
     "domain": "hcpss.org",
     "org": "Howard County Public School System",
     "country": null
@@ -43148,11 +42968,6 @@
     "domain": "hcu-hamburg.de",
     "org": "Hafencity Universität Hamburg",
     "country": "DE"
-  },
-  {
-    "domain": "hcu.ac.th",
-    "org": "Huachiew Chalermprakiet University",
-    "country": "TH"
   },
   {
     "domain": "hcu.edu.tw",
@@ -46665,11 +46480,6 @@
     "country": "CN"
   },
   {
-    "domain": "hust.edu.tw",
-    "org": "修平科技大學",
-    "country": "TW"
-  },
-  {
     "domain": "hust.edu.vn",
     "org": "Đại học Bách khoa Hà Nội",
     "country": "VN"
@@ -47415,11 +47225,6 @@
     "country": "CO"
   },
   {
-    "domain": "iberoleon.edu.mx",
-    "org": "Universidad Iberoamericana León",
-    "country": "MX"
-  },
-  {
     "domain": "iberopuebla.mx",
     "org": "Universidad Iberoamericana Puebla",
     "country": "MX"
@@ -47983,11 +47788,6 @@
     "domain": "ict.edu.mx",
     "org": "Instituto Cultural Tampico A.C.",
     "country": "MX"
-  },
-  {
-    "domain": "ict.edu.om",
-    "org": "Ibra College of Technology",
-    "country": "OM"
   },
   {
     "domain": "ict.edu.rs",
@@ -49040,11 +48840,6 @@
     "country": "CH"
   },
   {
-    "domain": "ifac.edu.br",
-    "org": "Instituto Federal do Acre - IFAC",
-    "country": "BR"
-  },
-  {
     "domain": "ifado.de",
     "org": "Leibniz Institut für Arbeitsforschung an der TU Dortmund",
     "country": "DE"
@@ -49102,11 +48897,6 @@
   {
     "domain": "ifes.edu.br",
     "org": "Instituto Federal do Espírito Santo",
-    "country": "BR"
-  },
-  {
-    "domain": "iff.edu.br",
-    "org": "Instituto Federal de Educação, Ciência e Tecnologia Fluminense",
     "country": "BR"
   },
   {
@@ -50480,11 +50270,6 @@
     "country": "NL"
   },
   {
-    "domain": "ijm.edu.mx",
-    "org": "Instituto Jefferson de Morelia",
-    "country": "MX"
-  },
-  {
     "domain": "ijs.si",
     "org": "Jozef Stefan Institute",
     "country": "SI"
@@ -50970,11 +50755,6 @@
     "country": "PK"
   },
   {
-    "domain": "imsec.ac.in",
-    "org": "IMS Engineering College, Ghaziabad, Uttar Pradesh, India",
-    "country": "IN"
-  },
-  {
     "domain": "imset.tn",
     "org": "IMSET",
     "country": "TN"
@@ -51255,11 +51035,6 @@
     "country": "KR"
   },
   {
-    "domain": "indus.edu.pk",
-    "org": "Indus Institute of Higher Education",
-    "country": "PK"
-  },
-  {
     "domain": "indusschoolhyd.com",
     "org": "Indus International School Hyderabad",
     "country": null
@@ -51350,11 +51125,6 @@
     "country": null
   },
   {
-    "domain": "infomaxcollege.edu.np",
-    "org": "Infomax College of IT & Management",
-    "country": "NP"
-  },
-  {
     "domain": "infomila.info",
     "org": "Milà i Fontanals",
     "country": null
@@ -51373,11 +51143,6 @@
     "domain": "informatica.iesvalledeljerteplasencia.es",
     "org": "IES Valle del Jerte (Plasencia)",
     "country": "ES"
-  },
-  {
-    "domain": "informatics.edu.ph",
-    "org": "Informatics Philippines",
-    "country": "PH"
   },
   {
     "domain": "informatics.ru",
@@ -54040,11 +53805,6 @@
     "country": "NL"
   },
   {
-    "domain": "issaquah.wednet.edu",
-    "org": "Issaquah High School",
-    "country": null
-  },
-  {
     "domain": "issatkas.u-kairouan.tn",
     "org": "Institut Supérieur des Sciences Appliquées et de Technologie de Kasserine",
     "country": "TN"
@@ -54610,11 +54370,6 @@
     "country": "AR"
   },
   {
-    "domain": "itbeltran.com.ar",
-    "org": "INSTITUTO SUPERIOR DE FORMACIÓN TÉCNICA N° 197",
-    "country": "AR"
-  },
-  {
     "domain": "itbhu.ac.in",
     "org": "Indian Institute of Technology (Banaras Hindu University)",
     "country": "IN"
@@ -55040,11 +54795,6 @@
     "country": null
   },
   {
-    "domain": "itis.biella.it",
-    "org": "ITIS Q. SELLA",
-    "country": "IT"
-  },
-  {
     "domain": "itis.pr.it",
     "org": "ITIS Leonardo da Vinci",
     "country": "IT"
@@ -55395,11 +55145,6 @@
     "country": "MX"
   },
   {
-    "domain": "itrithuc.vn",
-    "org": "Digital Vietnamese Knowledge System Project of the Ministry of Science and Technology of Vietnam",
-    "country": "VN"
-  },
-  {
     "domain": "its-ictpiemonte.it",
     "org": "ITS for ICT Piemonte",
     "country": "IT"
@@ -55517,11 +55262,6 @@
   {
     "domain": "itsn.edu.mx",
     "org": "Instituto Tecnológico Superior de Nochistlán",
-    "country": "MX"
-  },
-  {
-    "domain": "itsncg.edu.mx",
-    "org": "Instituto Tecnológico Superior de Nuevo Casas Grandes",
     "country": "MX"
   },
   {
@@ -56263,11 +56003,6 @@
     "domain": "iwu.edu",
     "org": "Illinois Wesleyan University",
     "country": null
-  },
-  {
-    "domain": "iyte.edu.tr",
-    "org": "İzmir Yüksek Teknoloji Enstitüsü",
-    "country": "TR"
   },
   {
     "domain": "izmirekonomi.edu.tr",
@@ -59295,11 +59030,6 @@
     "country": null
   },
   {
-    "domain": "kenton.kyschools.us",
-    "org": "Kenton County Schools",
-    "country": "US"
-  },
-  {
     "domain": "kenyon.edu",
     "org": "Kenyon College",
     "country": null
@@ -60645,11 +60375,6 @@
     "country": "JP"
   },
   {
-    "domain": "kmu.edu.tw",
-    "org": "高雄醫學大學",
-    "country": "TW"
-  },
-  {
     "domain": "kmu.edu.ua",
     "org": "Private higher educational establishment Kyiv Medical University",
     "country": "UA"
@@ -60658,11 +60383,6 @@
     "domain": "kmust.edu.cn",
     "org": "Kunmimg University of Science and Technology",
     "country": "CN"
-  },
-  {
-    "domain": "kmutnb.ac.th",
-    "org": "King Mongkut's University of Technology North Bangkok",
-    "country": "TH"
   },
   {
     "domain": "kmutt.ac.th",
@@ -61338,11 +61058,6 @@
     "domain": "kpritech.ac.in",
     "org": "Kommuri Pratap Reddy Institute of Technology (KPRIT), Hyderabad, Telangana",
     "country": "IN"
-  },
-  {
-    "domain": "kpru.ac.th",
-    "org": "Kamphaeng Phet Rajabhat University",
-    "country": "TH"
   },
   {
     "domain": "kps.co.uk",
@@ -62490,11 +62205,6 @@
     "country": "JP"
   },
   {
-    "domain": "kwasu.edu.ng",
-    "org": "Kwara State University, Malete",
-    "country": "NG"
-  },
-  {
     "domain": "kwc.edu",
     "org": "Kentucky Wesleyan College",
     "country": null
@@ -63490,11 +63200,6 @@
     "country": null
   },
   {
-    "domain": "lawrencesheriffschool.com",
-    "org": "Lawrence Sheriff School",
-    "country": null
-  },
-  {
     "domain": "lawrenceville.org",
     "org": "The Lawrenceville School",
     "country": null
@@ -63598,11 +63303,6 @@
     "domain": "lbtu.lv",
     "org": "Latvijas Biozinātņu un tehnoloģiju universitāte",
     "country": "LV"
-  },
-  {
-    "domain": "lc-ps.org",
-    "org": "Frederick V. Pankow Center",
-    "country": null
   },
   {
     "domain": "lcad.edu",
@@ -65745,11 +65445,6 @@
     "country": "RU"
   },
   {
-    "domain": "ll.porteum.nl",
-    "org": "Porteum",
-    "country": "NL"
-  },
-  {
     "domain": "ll.scholenaanzee.nl",
     "org": "Scholen aan Zee",
     "country": "NL"
@@ -66215,11 +65910,6 @@
     "country": null
   },
   {
-    "domain": "lomebs.com",
-    "org": "Lomé Business School",
-    "country": null
-  },
-  {
     "domain": "lomonoxop.edu.vn",
     "org": "Trường THCS và THPT M.V.Lômônôxốp",
     "country": "VN"
@@ -66503,11 +66193,6 @@
     "domain": "lpu.lv",
     "org": "Liepaja Pedagogical Higher School",
     "country": "LV"
-  },
-  {
-    "domain": "lpubatangas.edu.ph",
-    "org": "Lyceum of the Philippines University-Batangas",
-    "country": "PH"
   },
   {
     "domain": "lqd.edu.vn",
@@ -67380,11 +67065,6 @@
     "country": "ZA"
   },
   {
-    "domain": "lynnschools.org",
-    "org": "Lynn Classical High School",
-    "country": null
-  },
-  {
     "domain": "lynu.edu.cn",
     "org": "洛阳师范学院",
     "country": "CN"
@@ -67475,11 +67155,6 @@
     "country": "UA"
   },
   {
-    "domain": "maarif.com.sa",
-    "org": "منارات الرياض الأهلية والعالمية",
-    "country": "SA"
-  },
-  {
     "domain": "maartenvanrossem.nl",
     "org": "Maarten van Rossum",
     "country": "NL"
@@ -67543,11 +67218,6 @@
     "domain": "macfast.ac.in",
     "org": "മാർ അത്തനേഷ്യസ് കോളേജ് ഫോർ അഡ്വാൻസ്ഡ് സ്റ്റഡീസ്",
     "country": "IN"
-  },
-  {
-    "domain": "machung.ac.id",
-    "org": "Universitas Ma Chung",
-    "country": "ID"
   },
   {
     "domain": "macintyreacademies.org",
@@ -67733,11 +67403,6 @@
     "domain": "mahemc.tu.edu.np",
     "org": "Mahendra Multiple Campus Nepalgunj",
     "country": "NP"
-  },
-  {
-    "domain": "mahidol.ac.th",
-    "org": "Mahidol University",
-    "country": "TH"
   },
   {
     "domain": "mahidol.edu",
@@ -69145,11 +68810,6 @@
     "country": "IR"
   },
   {
-    "domain": "mau.edu.eg",
-    "org": "Faculty of computers and artificial intelligence Matrouh universty",
-    "country": "EG"
-  },
-  {
     "domain": "mau.edu.ng",
     "org": "Modibbo Adama University, Yola",
     "country": "NG"
@@ -69378,11 +69038,6 @@
     "domain": "mbstu.ac.bd",
     "org": "Mawlana Bhashani Science And Technology University",
     "country": "BD"
-  },
-  {
-    "domain": "mbu.ac.th",
-    "org": "Mahamakut Buddhist University",
-    "country": "TH"
   },
   {
     "domain": "mbu.asia",
@@ -69683,11 +69338,6 @@
     "domain": "mcri.edu.au",
     "org": "Murdoch Children's Research Institute",
     "country": "AU"
-  },
-  {
-    "domain": "mcsdgas.com",
-    "org": "Spencer High School",
-    "country": null
   },
   {
     "domain": "mcsoxford.org",
@@ -70380,11 +70030,6 @@
     "country": null
   },
   {
-    "domain": "merit.edu.eg",
-    "org": "Merit University",
-    "country": "EG"
-  },
-  {
     "domain": "merit.unu.edu",
     "org": "UNU Maastricht Economic and Social Research Institute on Innovation and Technology, Maastricht, THE NETHERLANDS",
     "country": null
@@ -70463,11 +70108,6 @@
     "domain": "mesce.ac.in",
     "org": "MES College of Engineering Kuttippuram",
     "country": "IN"
-  },
-  {
-    "domain": "mescoeorg.onmicrosoft.com",
-    "org": "Modern Education Society's College of Engineering,Pune",
-    "country": null
   },
   {
     "domain": "mesi.ru",
@@ -71755,11 +71395,6 @@
     "country": "IN"
   },
   {
-    "domain": "mitust.edu.tw",
-    "org": "敏實科技大學",
-    "country": "TW"
-  },
-  {
     "domain": "mitvpu.ac.in",
     "org": "MIT VISHWAPRAYAG UNIVERSITY",
     "country": "IN"
@@ -72170,11 +71805,6 @@
     "country": "NP"
   },
   {
-    "domain": "mmsu.edu.ph",
-    "org": "Mariano Marcos State University",
-    "country": "PH"
-  },
-  {
     "domain": "mmtc.ac.id",
     "org": "STMM MMTC",
     "country": "ID"
@@ -72272,11 +71902,6 @@
   {
     "domain": "mnsuam.edu.pk",
     "org": "Muhammad Nazwaz Shareef University of Agriculture, Multan",
-    "country": "PK"
-  },
-  {
-    "domain": "mnsuet.edu.pk",
-    "org": "Muhammad Nawaz Sharif University of Engineering and Technology",
     "country": "PK"
   },
   {
@@ -72402,11 +72027,6 @@
   {
     "domain": "mojasiodemka.pl",
     "org": "Szkoła Podstawowa nr 7 im. Erazma z Rotterdamu, ul. Galileusza 14, 60-158 Poznań",
-    "country": "PL"
-  },
-  {
-    "domain": "mojcosinus.pl",
-    "org": "Cosinus",
     "country": "PL"
   },
   {
@@ -74105,11 +73725,6 @@
     "country": null
   },
   {
-    "domain": "muetkhp.edu.pk",
-    "org": "Mehran University of Engineering and Technology, Shaheed Zulfiquar Ali Bhutto Campus, Khairpur Mir's",
-    "country": "PK"
-  },
-  {
     "domain": "muh.ru",
     "org": "Modern University for the Humanities",
     "country": "RU"
@@ -74813,11 +74428,6 @@
     "domain": "mybest.org.uk",
     "org": "Samuel Whitbread Academy",
     "country": "GB"
-  },
-  {
-    "domain": "myboston.co.za",
-    "org": "Boston College",
-    "country": "ZA"
   },
   {
     "domain": "mybrcc.edu",
@@ -77845,18 +77455,8 @@
     "country": "TW"
   },
   {
-    "domain": "nkumbauniversity.ac.ug",
-    "org": "Nkumba University",
-    "country": "UG"
-  },
-  {
     "domain": "nkust.edu.tw",
     "org": "國立高雄科技大學",
-    "country": "TW"
-  },
-  {
-    "domain": "nkut.edu.tw",
-    "org": "Nan Kai University of Technology",
     "country": "TW"
   },
   {
@@ -78995,11 +78595,6 @@
     "country": "IN"
   },
   {
-    "domain": "nsysu.edu.tw",
-    "org": "National Sun Yat-Sen University",
-    "country": "TW"
-  },
-  {
     "domain": "nta-isny.de",
     "org": "Naturwissenschaftlich technische Akademie Isny - Fachhochschule & Berufskollegs Prof. Dr. Grübler GmbH",
     "country": "DE"
@@ -79075,11 +78670,6 @@
     "country": "TW"
   },
   {
-    "domain": "ntpu.edu.tw",
-    "org": "National Taipei University",
-    "country": "TW"
-  },
-  {
     "domain": "nts.cumbria.sch.uk",
     "org": "The Nelson Thomlinson School, Wigton",
     "country": "GB"
@@ -79103,11 +78693,6 @@
     "domain": "nttf.co.in",
     "org": "Nettur Technical Training Foundation",
     "country": "IN"
-  },
-  {
-    "domain": "nttu.edu.tw",
-    "org": "國立臺東大學",
-    "country": "TW"
   },
   {
     "domain": "ntu-hn.edu.vn",
@@ -79305,11 +78890,6 @@
     "country": "KR"
   },
   {
-    "domain": "nuct.edu.jo",
-    "org": "National University Collage of Technology",
-    "country": "JO"
-  },
-  {
     "domain": "nudt.edu.cn",
     "org": "National University of Defense Technology",
     "country": "CN"
@@ -79383,11 +78963,6 @@
     "domain": "num.edu.kh",
     "org": "National University of Management",
     "country": "KH"
-  },
-  {
-    "domain": "num.edu.mn",
-    "org": "National University of Mongolia",
-    "country": "MN"
   },
   {
     "domain": "numazu-vtc.ac.jp",
@@ -79885,11 +79460,6 @@
     "country": "KR"
   },
   {
-    "domain": "o365.mcut.edu.tw",
-    "org": "明志科技大學",
-    "country": "TW"
-  },
-  {
     "domain": "o365.pen.go.kr",
     "org": "부산광역시교육청",
     "country": "KR"
@@ -80255,11 +79825,6 @@
     "country": "KR"
   },
   {
-    "domain": "office.jj.ac.kr",
-    "org": "전주대학교",
-    "country": "KR"
-  },
-  {
     "domain": "office.kiwu.ac.kr",
     "org": "경인여대",
     "country": "KR"
@@ -80513,11 +80078,6 @@
     "domain": "ohva.org",
     "org": "Ohio Virtual Academy",
     "country": null
-  },
-  {
-    "domain": "oi.edu.eg",
-    "org": "Obour High Institute for Management & Informatics",
-    "country": "EG"
   },
   {
     "domain": "oiate.ru",
@@ -82135,11 +81695,6 @@
     "country": "NP"
   },
   {
-    "domain": "paf-iast.edu.pk",
-    "org": "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology",
-    "country": "PK"
-  },
-  {
     "domain": "pafa.org",
     "org": "Pennsylvania Academy of the Fine Arts",
     "country": null
@@ -82278,11 +81833,6 @@
     "domain": "panimalar.ac.in",
     "org": "Panimalar Engineering College",
     "country": "IN"
-  },
-  {
-    "domain": "panimalarengg.onmicrosoft.com",
-    "org": "Panimalar Engineering Collage",
-    "country": null
   },
   {
     "domain": "panko.lt",
@@ -84490,11 +84040,6 @@
     "country": "ID"
   },
   {
-    "domain": "poliku.edu.my",
-    "org": "Kuching Polytechnic",
-    "country": "MY"
-  },
-  {
     "domain": "polimas.edu.my",
     "org": "Sultan Abdul Halim Muadzam Shah Polytechnic",
     "country": "MY"
@@ -84542,11 +84087,6 @@
   {
     "domain": "polipd.edu.my",
     "org": "Port Dickson Polytechnic",
-    "country": "MY"
-  },
-  {
-    "domain": "polisas.edu.my",
-    "org": "Sultan Haji Ahmad Shah Polytechnic",
     "country": "MY"
   },
   {
@@ -84762,11 +84302,6 @@
   {
     "domain": "poltekkes-smg.ac.id",
     "org": "Poltekkes Kemenkes Semarang",
-    "country": "ID"
-  },
-  {
-    "domain": "poltekkesbandung.ac.id",
-    "org": "Poltekkes Kemenkes Bandung",
     "country": "ID"
   },
   {
@@ -85420,11 +84955,6 @@
     "country": "IN"
   },
   {
-    "domain": "pristineschool.com",
-    "org": "Pristine Private School",
-    "country": null
-  },
-  {
     "domain": "pristini-international.tn",
     "org": "Pristini School of AI",
     "country": "TN"
@@ -85558,11 +85088,6 @@
     "domain": "profitecla.pt",
     "org": "Escola Profissional Profitecla",
     "country": "PT"
-  },
-  {
-    "domain": "projecao.edu.br",
-    "org": "Centro Universitário e Faculdade Projeção",
-    "country": "BR"
   },
   {
     "domain": "projectmala.org.in",
@@ -85818,11 +85343,6 @@
     "domain": "psoh46.ru",
     "org": "V.P. Astafiev's Podtesovo School",
     "country": "RU"
-  },
-  {
-    "domain": "psp.edu.my",
-    "org": "Seberang Perai Polytechnic",
-    "country": "MY"
   },
   {
     "domain": "pspbystrice.cz",
@@ -86128,11 +85648,6 @@
     "domain": "pu.edu.lb",
     "org": "Phoenicia University",
     "country": "LB"
-  },
-  {
-    "domain": "pu.edu.np",
-    "org": "Pokhara University",
-    "country": "NP"
   },
   {
     "domain": "pu.edu.pk",
@@ -89360,11 +88875,6 @@
     "country": null
   },
   {
-    "domain": "rts-365.dk",
-    "org": "Roskilde Tekniske Skole",
-    "country": "DK"
-  },
-  {
     "domain": "rtss.edu.bd",
     "org": "রাজ টেক্সটাইল মাধ্যমিক বিদ্যালয়",
     "country": "BD"
@@ -91025,11 +90535,6 @@
     "country": "IN"
   },
   {
-    "domain": "sarasotacountyschools.net",
-    "org": "Sarasota County Schools",
-    "country": null
-  },
-  {
     "domain": "saraswaticollege.edu.in",
     "org": "Saraswati College",
     "country": "IN"
@@ -91443,11 +90948,6 @@
     "domain": "sbuniv.edu",
     "org": "Southwest Baptist University",
     "country": null
-  },
-  {
-    "domain": "sbup.edu.in",
-    "org": "Shri Balaji University",
-    "country": "IN"
   },
   {
     "domain": "sc-celje.si",
@@ -92753,11 +92253,6 @@
     "domain": "sdc.edu",
     "org": "Sojourner-Douglass College",
     "country": null
-  },
-  {
-    "domain": "sdc.tu.edu.np",
-    "org": "Shanker Dev Campus, Putalisadak Kathmandu",
-    "country": "NP"
   },
   {
     "domain": "sdca.edu.ph",
@@ -95365,11 +94860,6 @@
     "country": null
   },
   {
-    "domain": "sjcacblr.onmicrosoft.com",
-    "org": "St. Joseph's College (Autonomous)",
-    "country": null
-  },
-  {
     "domain": "sjcc.edu",
     "org": "San Jose City College",
     "country": null
@@ -95790,11 +95280,6 @@
     "country": "IN"
   },
   {
-    "domain": "skru.ac.th",
-    "org": "มหาวิทยาลัยราชภัฏสงขลา",
-    "country": "TH"
-  },
-  {
     "domain": "sksk.mil.no",
     "org": "Royal Norwegian Naval Academy",
     "country": "NO"
@@ -95938,11 +95423,6 @@
     "domain": "slsu.edu.ph",
     "org": "Southern Luzon State University",
     "country": "PH"
-  },
-  {
-    "domain": "sltc.ac.lk",
-    "org": "Sri Lanka Technological Campus",
-    "country": "LK"
   },
   {
     "domain": "sltc.edu.lk",
@@ -97355,11 +96835,6 @@
     "country": "BR"
   },
   {
-    "domain": "soubraseducacional.com.br",
-    "org": "soubraseducacional.com.br",
-    "country": "BR"
-  },
-  {
     "domain": "souclaretiano.edu.br",
     "org": "Centro Universitário Claretiano",
     "country": "BR"
@@ -97580,11 +97055,6 @@
     "country": null
   },
   {
-    "domain": "souunisales.com.br",
-    "org": "Unisales",
-    "country": "BR"
-  },
-  {
     "domain": "souunisuam.com.br",
     "org": "UNISUAM",
     "country": "BR"
@@ -97608,11 +97078,6 @@
     "domain": "soyudemedellin.edu.co",
     "org": "Universidad De Medellín",
     "country": "CO"
-  },
-  {
-    "domain": "soyunaq.mx",
-    "org": "Universidad Aeronáutica en Queretaro",
-    "country": "MX"
   },
   {
     "domain": "sp-gs.de",
@@ -99455,11 +98920,6 @@
     "country": "GB"
   },
   {
-    "domain": "stc.ac.in",
-    "org": "Sree Saraswathi Thyagaraja College",
-    "country": "IN"
-  },
-  {
     "domain": "stc.edu.hk",
     "org": "天主教崇德英文書院",
     "country": "HK"
@@ -100690,11 +100150,6 @@
     "country": "CA"
   },
   {
-    "domain": "sttpln.ac.id",
-    "org": "Institut Teknologi PLN",
-    "country": "ID"
-  },
-  {
     "domain": "stu-digital-campus.fr",
     "org": "ESG - Ecole de commerce",
     "country": "FR"
@@ -100738,11 +100193,6 @@
     "domain": "stu.ac.kr",
     "org": "제주대학교",
     "country": "KR"
-  },
-  {
-    "domain": "stu.ac.th",
-    "org": "Santapol College",
-    "country": "TH"
   },
   {
     "domain": "stu.acischools.k12.tr",
@@ -100810,11 +100260,6 @@
     "country": "CN"
   },
   {
-    "domain": "stu.burbankusd.org",
-    "org": "Burbank Unified School District",
-    "country": null
-  },
-  {
     "domain": "stu.ca",
     "org": "St. Thomas University",
     "country": "CA"
@@ -100823,11 +100268,6 @@
     "domain": "stu.calums.edu",
     "org": "California university of management science",
     "country": null
-  },
-  {
-    "domain": "stu.campbell.kyschools.us",
-    "org": "Campbell County Schools",
-    "country": "US"
   },
   {
     "domain": "stu.ccit.js.cn",
@@ -102740,11 +102180,6 @@
     "country": "VN"
   },
   {
-    "domain": "student.hcps.org",
-    "org": "Harford County Public Schools",
-    "country": null
-  },
-  {
     "domain": "student.hdcleuven.be",
     "org": "Heilige-Drievuldigheidscollege",
     "country": "BE"
@@ -103910,11 +103345,6 @@
     "country": "ID"
   },
   {
-    "domain": "student.uajm.ac.id",
-    "org": "Universitas Atma Jaya Makassar",
-    "country": "ID"
-  },
-  {
     "domain": "student.ubb.edu.pl",
     "org": "Uniwersytet Bielsko-Bialski",
     "country": "PL"
@@ -103938,11 +103368,6 @@
     "domain": "student.uczelniaoswiecim.edu.pl",
     "org": "Małopolska Uczelnia Państwowa imienia rotmistrza Witolda Pileckiego w Oświęcimiu",
     "country": "PL"
-  },
-  {
-    "domain": "student.udm.ac.mu",
-    "org": "University of Mascareignes",
-    "country": "MU"
   },
   {
     "domain": "student.uinsby.ac.id",
@@ -103995,11 +103420,6 @@
     "country": "PL"
   },
   {
-    "domain": "student.umpsa.edu.my",
-    "org": "Universiti Malaysia Pahang Al-Sultan Abdullah",
-    "country": "MY"
-  },
-  {
     "domain": "student.umrah.ac.id",
     "org": "UNIVERSITAS MARITIM RAJA ALI HAJI",
     "country": "ID"
@@ -104043,11 +103463,6 @@
     "domain": "student.universidadviu.com",
     "org": "Universidad Internacional de Valencia",
     "country": null
-  },
-  {
-    "domain": "student.unklab.ac.id",
-    "org": "Universitas Klabat",
-    "country": "ID"
   },
   {
     "domain": "student.unri.ac.id",
@@ -104888,11 +104303,6 @@
     "domain": "students.jedlik.eu",
     "org": "Győri SZC Jedlik Ányos Gépipari és Informatikai Technikum és Kollégium",
     "country": null
-  },
-  {
-    "domain": "students.k12.dc.us",
-    "org": "District of Columbia Public Schools",
-    "country": "US"
   },
   {
     "domain": "students.kabianga.ac.ke",
@@ -106565,11 +105975,6 @@
     "country": "IN"
   },
   {
-    "domain": "svcet.edu.in",
-    "org": "Sri Venkateshwara College of Engineering and Technology (Autonomous), Chittoor",
-    "country": "IN"
-  },
-  {
     "domain": "svcolleges.edu.in",
     "org": "sv college of engineering",
     "country": "IN"
@@ -106588,11 +105993,6 @@
     "domain": "svendborg-gym.dk",
     "org": "Svendborg Gymnasium",
     "country": "DK"
-  },
-  {
-    "domain": "sves.org.in",
-    "org": "Sri Vasavi Engineering College",
-    "country": "IN"
   },
   {
     "domain": "sveti-sava.edu.rs",
@@ -106683,11 +106083,6 @@
     "domain": "svu.edu",
     "org": "Southern Virginia University",
     "country": null
-  },
-  {
-    "domain": "svu.edu.eg",
-    "org": "South Valley University",
-    "country": "EG"
   },
   {
     "domain": "svumail.edu.in",
@@ -107560,11 +106955,6 @@
     "country": null
   },
   {
-    "domain": "tanta.edu.eg",
-    "org": "Tanta University",
-    "country": "EG"
-  },
-  {
     "domain": "tantasqua.org",
     "org": "Tantasqua Regional High School",
     "country": null
@@ -107573,11 +106963,6 @@
     "domain": "taom.ru",
     "org": "ТАУ тольяттинская академия управления",
     "country": "RU"
-  },
-  {
-    "domain": "tapee.ac.th",
-    "org": "มหาวิทยาลัยตาปี",
-    "country": "TH"
   },
   {
     "domain": "tapschool.ae",
@@ -108793,11 +108178,6 @@
     "domain": "texascollege.edu",
     "org": "Texas College",
     "country": null
-  },
-  {
-    "domain": "texascollege.edu.np",
-    "org": "Texas College of Management & IT",
-    "country": "NP"
   },
   {
     "domain": "texasintl.edu.np",
@@ -110250,11 +109630,6 @@
     "country": "TW"
   },
   {
-    "domain": "tnue.edu.vn",
-    "org": "trường đại học sư phạm Thái Nguyên",
-    "country": "VN"
-  },
-  {
     "domain": "tnuni.sk",
     "org": "University of Alexandra Dubček in Trenčín",
     "country": "SK"
@@ -111098,11 +110473,6 @@
     "domain": "tsma.ru",
     "org": "Tver State Medical Academy",
     "country": "RU"
-  },
-  {
-    "domain": "tsmmechelen.net",
-    "org": "Tsm mechelen",
-    "country": null
   },
   {
     "domain": "tsmu.edu",
@@ -112175,11 +111545,6 @@
     "country": null
   },
   {
-    "domain": "u.zs1.stargard.pl",
-    "org": "Zespół Szkół nr 1 im. Mieszka I w Stargardzie",
-    "country": "PL"
-  },
-  {
     "domain": "u1.ac.kr",
     "org": "유원대학교",
     "country": "KR"
@@ -112702,11 +112067,6 @@
   {
     "domain": "uane.edu.mx",
     "org": "Universidad Autónoma del Noreste",
-    "country": "MX"
-  },
-  {
-    "domain": "uane.mx",
-    "org": "Universidad Americana del Noreste",
     "country": "MX"
   },
   {
@@ -113640,11 +113000,6 @@
     "country": "IE"
   },
   {
-    "domain": "ucd.ma",
-    "org": "Université Chouaib Doukkali",
-    "country": "MA"
-  },
-  {
     "domain": "ucdavis.edu",
     "org": "University of California, Davis",
     "country": null
@@ -114450,11 +113805,6 @@
     "country": "PL"
   },
   {
-    "domain": "ud.ac.ae",
-    "org": "University Of Dubai",
-    "country": "AE"
-  },
-  {
     "domain": "ud.edu.sa",
     "org": "University of Dammam",
     "country": "SA"
@@ -114788,11 +114138,6 @@
     "domain": "udom.ac.tz",
     "org": "University of Dodoma",
     "country": "TZ"
-  },
-  {
-    "domain": "udontech.ac.th",
-    "org": "วิทยาลัยเทคนิคอุดรธานี",
-    "country": "TH"
   },
   {
     "domain": "udoym.edu.do",
@@ -115895,11 +115240,6 @@
     "country": "ID"
   },
   {
-    "domain": "uhb.edu.sa",
-    "org": "جامعة حفرالباطن",
-    "country": "SA"
-  },
-  {
     "domain": "uhb.fr",
     "org": "Université Rennes II - Haute-Bretagne",
     "country": "FR"
@@ -116147,11 +115487,6 @@
   {
     "domain": "uigv.edu.pe",
     "org": "Universidad Particular Inca Garcilaso de la Vega",
-    "country": "PE"
-  },
-  {
-    "domain": "uigv.pe",
-    "org": "Universidad Inca Garcilaso de la Vega",
     "country": "PE"
   },
   {
@@ -118180,11 +117515,6 @@
     "country": null
   },
   {
-    "domain": "unair.ac.id",
-    "org": "Universitas Airlangga",
-    "country": "ID"
-  },
-  {
     "domain": "unaj.edu.ar",
     "org": "Universidad Nacional Arturo Jauretche",
     "country": "AR"
@@ -120065,11 +119395,6 @@
     "country": "ID"
   },
   {
-    "domain": "unidombosco.edu.br",
-    "org": "Centro Universitário Dom Bosco",
-    "country": "BR"
-  },
-  {
     "domain": "unidompedro.com",
     "org": "Centro Universitario Dom Pedro II",
     "country": null
@@ -121410,11 +120735,6 @@
     "country": "ID"
   },
   {
-    "domain": "unirp.com.br",
-    "org": "Centro Universitário de Rio Preto",
-    "country": "BR"
-  },
-  {
     "domain": "unirsm.sm",
     "org": "University of San Marino",
     "country": "SM"
@@ -122078,11 +121398,6 @@
     "domain": "univ-brest.fr",
     "org": "Université de Bretagne Occidentale",
     "country": "FR"
-  },
-  {
-    "domain": "univ-catho-sjd.com",
-    "org": "Institut universitaire Saint Jerome de Douala",
-    "country": null
   },
   {
     "domain": "univ-catholille.fr",
@@ -123298,11 +122613,6 @@
     "domain": "unla.edu.mx",
     "org": "Universidad Latina",
     "country": "MX"
-  },
-  {
-    "domain": "unlam.edu.ar",
-    "org": "Universidad Nacional de La Matanza",
-    "country": "AR"
   },
   {
     "domain": "unlar.edu.ar",
@@ -124975,11 +124285,6 @@
     "country": "RO"
   },
   {
-    "domain": "upg.ac.id",
-    "org": "Primagraha University",
-    "country": "ID"
-  },
-  {
     "domain": "upgch.mx",
     "org": "Universidad Pablo Guardado Chávez",
     "country": "MX"
@@ -126465,11 +125770,6 @@
     "country": "PL"
   },
   {
-    "domain": "uson.mx",
-    "org": "Universidad de Sonora",
-    "country": "MX"
-  },
-  {
     "domain": "usouthal.edu",
     "org": "University of South Alabama",
     "country": null
@@ -126688,11 +125988,6 @@
     "domain": "ustp.at",
     "org": "Hochschule für Angewandte Wissenschaften St. Pölten",
     "country": "AT"
-  },
-  {
-    "domain": "ustp.edu.ph",
-    "org": "The University of Science and Technology of The Philippines",
-    "country": "PH"
   },
   {
     "domain": "ustpaul.ca",
@@ -127782,11 +127077,6 @@
   {
     "domain": "uttehuacan.edu.mx",
     "org": "Universidad Tecnológica de Tehuacán",
-    "country": "MX"
-  },
-  {
-    "domain": "uttn.mx",
-    "org": "Universidad Tecnologica de Tamaulipas Norte",
     "country": "MX"
   },
   {
@@ -132295,11 +131585,6 @@
     "country": null
   },
   {
-    "domain": "wldu.edu.et",
-    "org": "woldia University",
-    "country": "ET"
-  },
-  {
     "domain": "wlg.nl",
     "org": "Willem Lodewijk Gymnasium",
     "country": "NL"
@@ -133875,11 +133160,6 @@
     "country": "AM"
   },
   {
-    "domain": "yersin.edu.vn",
-    "org": "YERSIN UNIVERSITY DALAT",
-    "country": "VN"
-  },
-  {
     "domain": "yewon.ac.kr",
     "org": "Yewon Arts University",
     "country": "KR"
@@ -134900,11 +134180,6 @@
     "country": "PL"
   },
   {
-    "domain": "zseii.onmicrosoft.com",
-    "org": "Zespół Szkół Elektronicznych i Informatycznych w Sosnowcu",
-    "country": null
-  },
-  {
     "domain": "zseil.edu.pl",
     "org": "Zespół Szkół Elektronicznych i Licealnych",
     "country": "PL"
@@ -135478,11 +134753,6 @@
     "domain": "zu.de",
     "org": "Zeppelin University",
     "country": "DE"
-  },
-  {
-    "domain": "zu.edu.eg",
-    "org": "Zagazig University",
-    "country": "EG"
   },
   {
     "domain": "zu.edu.pk",
