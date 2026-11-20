@@ -11065,6 +11065,11 @@
     "country": "RU"
   },
   {
+    "domain": "bkuc.edu.pk",
+    "org": "Bacha Khan University Charsadda",
+    "country": "PK"
+  },
+  {
     "domain": "bkvm.edu.np",
     "org": "Bal Kalyan Vidhya Mandir School",
     "country": "NP"
@@ -29863,6 +29868,11 @@
     "domain": "enastic.td",
     "org": "Ecole nationale supérieure des technologies de l'information et de la communication",
     "country": "TD"
+  },
+  {
+    "domain": "enau.ucar.tn",
+    "org": "Ecole Nationale d'Architecture et d'Urbanisme de Tunis",
+    "country": "TN"
   },
   {
     "domain": "enautica.pt",
@@ -53850,6 +53860,11 @@
     "country": "AR"
   },
   {
+    "domain": "issea-cemac.org",
+    "org": "Institut sous-régional de statistique et d'économie appliquée",
+    "country": null
+  },
+  {
     "domain": "issgreppi.gov.it",
     "org": "\"Alessandro Greppi\" High School - http://www.issgreppi.gov.it/",
     "country": "IT"
@@ -71993,6 +72008,11 @@
     "domain": "moe.om",
     "org": "Ministry of Education - Oman",
     "country": "OM"
+  },
+  {
+    "domain": "moeschools.edu.jm",
+    "org": "New Forest High School",
+    "country": "JM"
   },
   {
     "domain": "moestopo.ac.id",
@@ -128443,6 +128463,11 @@
     "domain": "vgasu.vrn.ru",
     "org": "Voronezh State University of Architecture and Civil Engineering",
     "country": "RU"
+  },
+  {
+    "domain": "vgaza.edu.ps",
+    "org": "غزة خارجي 25",
+    "country": "PS"
   },
   {
     "domain": "vgconnect.edu.za",
