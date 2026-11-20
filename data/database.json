@@ -24530,6 +24530,11 @@
     "country": null
   },
   {
+    "domain": "djerba.r-iset.tn",
+    "org": "iset djerba",
+    "country": "TN"
+  },
+  {
     "domain": "djgces.dje365.kr",
     "org": "대전갑천초등학교",
     "country": "KR"
@@ -57028,6 +57033,11 @@
     "domain": "jnu.kr",
     "org": "Chonnam National University",
     "country": "KR"
+  },
+  {
+    "domain": "jnujaipur.ac.in",
+    "org": "Jaipur National University",
+    "country": "IN"
   },
   {
     "domain": "jobu.ac.jp",
