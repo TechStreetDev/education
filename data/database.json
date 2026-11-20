@@ -2485,6 +2485,16 @@
     "country": "CN"
   },
   {
+    "domain": "ahalia.ac.in",
+    "org": "Ahalia School of Engineering and Technology",
+    "country": "IN"
+  },
+  {
+    "domain": "ahalia.edu.in",
+    "org": "Ahalia School of Engineering and Technology",
+    "country": "IN"
+  },
+  {
     "domain": "ahau.edu.cn",
     "org": "Anhui Agriculture University",
     "country": "CN"
@@ -6628,6 +6638,11 @@
     "domain": "asmu.ru",
     "org": "Altai State Medical University",
     "country": "RU"
+  },
+  {
+    "domain": "asnu.edu.eg",
+    "org": "جامعة أسيوط الأهلية",
+    "country": "EG"
   },
   {
     "domain": "asoiu.com",
@@ -78635,6 +78650,11 @@
     "country": "TW"
   },
   {
+    "domain": "nti.sci.eg",
+    "org": "National Telecommunication Institute",
+    "country": "EG"
+  },
+  {
     "domain": "ntig.se",
     "org": "NTI College Sweden",
     "country": "SE"
@@ -115570,6 +115590,11 @@
     "country": "ID"
   },
   {
+    "domain": "uinponorogo.ac.id",
+    "org": "Universitas Islam Negeri Kiai Ageng Muhammad Besari Ponorogo",
+    "country": "ID"
+  },
+  {
     "domain": "uinsa.ac.id",
     "org": "State Islamic University of Sunan Ampel Surabaya",
     "country": "ID"
@@ -132133,6 +132158,11 @@
     "domain": "wsiz.wroc.pl",
     "org": "Wyższa Szkoła Informatyki i Zarządzania we Wrocławiu",
     "country": "PL"
+  },
+  {
+    "domain": "wskinfo.onmicrosoft.com",
+    "org": "Technikum Administracyjno-Usługowe w Łodzi",
+    "country": null
   },
   {
     "domain": "wsksim.edu.pl",
